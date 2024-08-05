@@ -7,18 +7,17 @@
 
 中华人民共和国行业标准
  
-水运工程混凝土结构实体检测技术规范
+水运工程基桩试验检测技术规范
 =========================================
 
 
 
 .. raw:: html
 
-  <h2 id="test111">水运工程混凝土结构实体检测技术规范</h2>
+  <h2 id="test111">水运工程基桩试验检测技术规范</h2>
 
-  Technical Specification for Solid Inspection of Concrete Structure in Port and Waterway Engineering
-  
-  JTS 239-2015
+    
+  JTS 240—2020
 
 
 
@@ -26,7 +25,11 @@
  <table border="0" style="font-family:times new roman" >
  <tr>
  <td><font size="4"><br/><br/>主编部门:</font></td>
- <td><font size="4"><br/><br/>中交天津港湾工程研究院有限公司</font></td>
+ <td><font size="4"><br/><br/>中交四航工程研究院有限公司</font></td>
+ </tr>
+ <tr>
+ <td><font size="4"></font></td>
+ <td><font size="4">广州港湾工程质量检测有限公司</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>批准部门：</font></td>
@@ -34,7 +37,7 @@
  </tr>
  <tr>
  <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2015年5月1日</font></td>
+ <td><font size="4"><br/>20120年10月1日</font></td>
  </tr>
  </table>
 	</body>
@@ -55,7 +58,7 @@
 
 
  <p><b><font size="4">人民交通出版社股份有限公司</font></b></p>
- <p><b><font size="4">2015·北京</font></b></p>
+ <p><b><font size="4">2020·北京</font></b></p>
 
 
 
