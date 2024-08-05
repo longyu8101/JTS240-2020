@@ -5,20 +5,20 @@
 
 
 
-中华人民共和国国家标准
+中华人民共和国行业标准
  
-工程结构通用规范
+水运工程混凝土结构实体检测技术规范
 =========================================
 
 
 
 .. raw:: html
 
-  <h2 id="test111">工程结构通用规范</h2>
+  <h2 id="test111">水运工程混凝土结构实体检测技术规范</h2>
 
-  General code for engineering structures
+  Technical Specification for Solid Inspection of Concrete Structure in Port and Waterway Engineering
   
-  GB55001-2021
+  JTS 239-2015
 
 
 
@@ -26,15 +26,15 @@
  <table border="0" style="font-family:times new roman" >
  <tr>
  <td><font size="4"><br/><br/>主编部门:</font></td>
- <td><font size="4"><br/><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/><br/>中交天津港湾工程研究院有限公司</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>批准部门：</font></td>
- <td><font size="4"><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/>中华人民共和国交通运输部</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2022年1月1日</font></td>
+ <td><font size="4"><br/>2015年5月1日</font></td>
  </tr>
  </table>
 	</body>
@@ -54,8 +54,8 @@
 
 
 
- <p><b><font size="4">中国建筑工业出版社</font></b></p>
- <p><b><font size="4">2021·北京</font></b></p>
+ <p><b><font size="4">人民交通出版社股份有限公司</font></b></p>
+ <p><b><font size="4">2015·北京</font></b></p>
 
 
 
@@ -65,16 +65,7 @@
     :hidden:
     
     gg
-    fztw
-    qy
+    zdsm
     1
-    2
-    3
-    4
-    FLA
-    qcsm
-    1jbqk
-    2ry
-    3sy
-    4twsm
+ 
    
