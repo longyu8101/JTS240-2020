@@ -1,0 +1,38 @@
+2 术语
+==============
+
+.. raw:: html
+
+  <h2 id="test111">2 术语</h2>
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id2.0.1"> 2.0.1</a> <span id="id2.0.1">基桩&emsp;Single Pile</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 桩基础中的单桩。</p>
+ <p style="text-align:justify"><a href="#id2.0.2"> 2.0.2</a> <span id="id2.0.2">工程桩&emsp;Engineering Pile</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 在工程中使用的，最终在建、构筑物中受力起作用的桩。</p>
+ <p style="text-align:justify"><a href="#id2.0.3"> 2.0.3</a> <span id="id2.0.3">试验桩&emsp;Test Pile</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 在桩基础施工前，用以验证设计参数是否合理或检验桩基极限承载力而安排的桩。试验桩可以是工程桩，也可以是根据设计要求试沉的桩。</p> 
+ <p style="text-align:justify"><a href="#id2.0.4"> 2.0.4</a> <span id="id2.0.4">桩身完整性&emsp;Pilc Intcgrity</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 反映桩身截面尺寸相对变化、桩身材料密实性和连续性的综合性指标。</p>
+ <p style="text-align:justify"><a href="#id2.0.5"> 2.0.5</a> <span id="id2.0.5">桩身缺陷&emsp;Pilc Dcfccts</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 在一定程度上导致桩身完整性恶化，引起桩身结构强度和耐久性降低的桩身断裂、裂缝、缩颈、夹泥(杂物)、空洞、蜂窝、松散等不良现象的统称。</p>
+ <p style="text-align:justify "><a href="#id2.0.6"> 2.0.6</a> <span id="id2.0.6"> 分层侧摩阻力试验&emsp;Pile Shaft Rcsistancc Tcst</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 通过桩身应力应变测试，计算对应荷载作用下桩侧阻力的试验检测方法。</p>
+ <p style="text-align:justify"><a href="#id2.0.7"> 2.0.7</a> <span id="id2.0.7">基桩静载试验&emsp;Static Loading Tcst of Foundation Pilc</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 在桩顶部逐级施加轴向压力、轴向上拔力或水平推力，观测桩顶部随时间产生的沉降、上拔位移或水平位移，以确定相应的基桩轴向抗压承载力、基桩轴向抗拔承载力、基桩水平承载力的试验。</p>
+ <p style="text-align:justify"><a href="#id2.0.8"> 2.0.8</a> <span id="id2.0.8">锚杆抗拔承载力&emsp;Pull-out Capacity of Anchorage</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 锚杆在静荷载作用下达到破坏状态前或出现不可接受继续承载的位移时所对应的荷载</p> 
+ <p style="text-align:justify"><a href="#id2.0.9"> 2.0.9</a> <span id="id2.0.9">自平衡法 &emsp;Sclf-balanccd Mcthod</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 基桩承载力试验的一种方法。将荷载箱置于桩身平衡点处，通过试验数据绘制上、下段桩的荷载—位移曲线，从而得到基桩轴向承载力。</p>
+ <p style="text-align:justify"><a href="#id2.0.10"> 2.0.10</a> <span id="id2.0.10">基桩可打性分析 &emsp;Drvcability Analysis of Pilc</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 打桩施工前，根据地质条件、承载力要求、桩型尺寸、桩端设计高程、打桩锤参数等，模拟计算锤击数、贯入度、基桩承载力、土阻力恢复系数、桩身压应力及拉应力等，从而判断打桩设备的匹配性和基桩的可打入状态。</p>
+ <p style="text-align:justify"><a href="#id2.0.11"> 2.0.11</a> <span id="id2.0.11">钻芯法&emsp;Corc Drilling Mcthod</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 用钻机钻取芯样，检测桩长、桩身缺陷、桩底沉渣厚度以及桩身混凝土的强度，判定或鉴别桩端岩土性状的方法。</p> 
+ <p style="text-align:justify"><a href="#id2.0.12"> 2.0.12</a> <span id="id2.0.12">低应变法 &emsp;Low  Strain Intcgrity Tcsting</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 采用低能量瞬态或稳态方式在桩顶激振，实测桩顶部的速度时程曲线，或在实测桩顶部的速度时程曲线的同时实测桩顶部的力时程曲线。通过波动理论的时域分析或频域分析，对桩身完整性进行判定的检测方法。</p>
+ <p style="text-align:justify"><a href="#id2.0.13"> 2.0.13</a> <span id="id2.0.13">高应变法 &emsp;High Strain Dynamic Tcstingr</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 用重锤冲击桩顶，实测桩顶附近或桩顶部的速度和力时程曲线，通过波动理论分析，对基桩轴向抗压承载力和桩身完整性进行判定的检测方法。</p>
+ <p style="text-align:justify"><a href="#id2.0.14"> 2.0.14</a> <span id="id2.0.14">声波透射法 &emsp;Cosshole Sonic Logging</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 在预埋声测管之间发射并接收声波，通过实测声波在混凝土介质中传播的声时、频率和波幅衰减等声学参数的相对变化，对桩身完整性进行检测的方法。</p>
+
