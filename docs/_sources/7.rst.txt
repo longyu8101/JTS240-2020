@@ -1,0 +1,252 @@
+7 分层侧摩阻力试验
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">7 分层侧摩阻力试验</h2>
+
+
+7.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 分层侧摩阻力试验可用于桩身横截面尺寸基本恒定或已知的桩。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2"> 分层侧摩阻力试验采用的传感器应根据测试目的、试验桩型和施工工艺选用电阻应变式传感器、弦式传感器、光纤式应变传感器或滑动测微计。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3"> 传感器测量断面应设置在两种不同性质土层的界面处，且距桩顶和桩尖的距离不宜小于1倍桩径。在地面处或地面以上应设置一个测量断面作为传感器标定断面。传感器标定断面处应对称设置4个传感器，其他测量断面处可对称设置2～4个传感器，当桩径较大或试验要求较高时取高值。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4"> 采用滑动测微计时，可在桩身内通长埋设1根或1根以上的测管，测管内宜每隔1 m设测标或测量断面一个。</span></p>
+
+
+7.2 仪器设备
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id7.2.1"> 7.2.1</a> <span id="id7.2.1"> 应变式传感器安装，可根据不同桩型选择以下方式。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.1.1"> 7.2.1.1</a> <span id="id7.2.1.1"> 电阻应变计可直接粘贴在钢桩身上，弦式和光纤式传感器可直接焊接或螺栓连接固定在钢桩身上。传感器应有足够的抗锤击能力，且安装完后应采取可靠的防护措施，保证传感器在钢桩沉桩过程中的存活率。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.1.2"> 7.2.1.2</a> <span id="id7.2.1.2"> 传感器可采用焊接或者绑焊工艺固定在混凝土桩的钢筋笼上；对采用蒸汽养护或高压蒸养的混凝土预制桩，应选用耐高温的传感器和导线</span></p>
+ <p style="text-align:justify "><a href="#id7.2.2"> 7.2.2</a> <span id="id7.2.2"> 传感器及导线连接处应有足够的水密性，保证传感器在高水压测试条件下的存活率和稳定性。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.3"> 7.2.3</a> <span id="id7.2.3"> 电阻应变计及其连接电缆均应有可靠的防潮绝缘防护措施；正式试验前电阻应变计及电缆的系统绝缘电阻不应低于200 MΩ。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4"> 7.2.4</a> <span id="id7.2.4">  应变测量所用的仪器，宜具有多点自动测量功能，仪器的测试精度应优于或等于1 με。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.5"> 7.2.5</a> <span id="id7.2.5"> 弦式传感器应按主筋直径大小选择，并采用与之匹配的频率仪进行测量。频率仪的测试精度应优于或等于1 Hz,仪器的可测频率范围应大于桩在最大加载时频率的1.2倍。使用前应对传感器逐个检定，得出压力(拉力)与频率之间的关系。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.6"> 7.2.6</a> <span id="id7.2.6"> 带有接长杆弦式传感器可焊接在主筋上，不宜采用螺纹连接。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.7"> 7.2.7</a> <span id="id7.2.7"> 采用光纤式传感器进行分层侧摩阻力试验检测时应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.7.1"> 7.2.7.1</a> <span id="id7.2.7.1"> 光纤式传感器应用到灌注桩和预制混凝土桩中，应至少布设1条沿桩身中心对称的U形回路测线；有条件时，宜布设多条对称U形回路测线。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.7.2"> 7.2.7.2</a> <span id="id7.2.7.2"> 光纤式传感器应用到钢管桩中，植入光纤构成U形回路风险较大时，应沿桩身轴线对称布设两条单独的测线；有条件时，宜布设多条对称的测线，</span></p>
+ <p style="text-align:justify "><a href="#id7.2.7.3"> 7.2.7.3</a> <span id="id7.2.7.3"> 测试光纤植入过程中，应采用成熟的布设工艺和保护工艺，保证传感器的存活率。受检桩需要进行桩头处理时，应提前做好桩头光纤引线的保护措施。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.8"> 7.2.8</a> <span id="id7.2.8"> 滑动测微计测管的埋设应确保测标同桩身位移协调一致，并保持测标清洁。测管安装应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.8.1"> 7.2.8.1</a> <span id="id7.2.8.1"> 对钢管桩，可通过安装在测管上的测标与钢管桩的焊接，将测管固定在桩内侧壁。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.8.2"> 7.2.8.2</a> <span id="id7.2.8.2"> 对非高温养护预制桩，可将测管预埋在预制桩中；管桩可在沉桩后将测管放入中心孔中，采用膨润土水泥浆填充测管与桩壁间的孔隙。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.8.3"> 7.2.8.3</a> <span id="id7.2.8.3"> 对灌注桩，应在浇筑混凝土前将测管绑扎在主筋上，并采取防止钢筋笼扭曲的措施。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.9"> 7.2.9</a> <span id="id7.2.9"> 滑动测微计测试前后，应进行仪器标定。</span></p>
+
+
+7.3 试验方法和成果分析
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id7.3.1"> 7.3.1</a> <span id="id7.3.1"> 桩身分层侧摩阻力试验宜与基桩轴向抗压(抗拔)静载荷试验同步进行。</span></p>
+ <p style="text-align:justify "><a href="#id7.3.2"> 7.3.2</a> <span id="id7.3.2"> 当桩身应变与桩身位移需要同时测量时，桩身位移测量应与桩身应变测试同步。</span></p>
+ <p style="text-align:justify "><a href="#id7.3.3"> 7.3.3</a> <span id="id7.3.3"> 指定桩身断面的沉降和两个指定桩身断面间的沉降差，可采用位移杆测量。位移杆应具有一定的刚度，宜采用内外套管形式，外管固定在桩身，内管下端固定在需测试断面，顶端高出外管100 mm～200 mm,并可与固定断面位移同步。</span></p>
+ <p style="text-align:justify "><a href="#id7.3.4"> 7.3.4</a> <span id="id7.3.4"> 测试数据整理应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.3.4.1"> 7.3.4.1</a> <span id="id7.3.4.1"> 采用电阻应变式传感器测量，但未采用六线制长线补偿时，应按<a href="#ideq7.3.4-1">式(7.3.4-1)</a><span id="ideq7.3.4-1">或<a href="#ideq7.3.4-2">式(7.3.4-2)</a><span id="ideq7.3.4-2">对实测应变值进行导线电阻修正：</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 采用半桥测量时：</p>
+
+$$\\varepsilon =\\varepsilon ^{'}\\left (1+\\dfrac{r}{R} \\right ) \\tag{7.3.4-1}$$
+
+.. raw:: html
+
+ <p style="text-align:justify;text-indent:2em;"> 采用全桥测量时：</p>
+
+
+$$\\varepsilon =\\varepsilon ^{'}\\left (1+\\dfrac{2r}{R} \\right ) \\tag{7.3.4-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>ε</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">修正后的应变值；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>ε</i><sup>'</sup></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">修正前的应变值；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>r</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">导线电阻(Ω)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>R</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">应变计电阻(Ω)。</td>
+ </tr>
+ </table>   
+ <P> </P>
+
+
+ <p style="text-align:justify "><a href="#id7.3.4.2"> 7.3.4.2</a> <span id="id7.3.4.2"> 采用弦式传感器测量混凝土桩桩身应变时，应将传感器实测频率通过率定系数换算成力，再计算成与传感器断面处的混凝土应变相等的钢筋应变量。</span></p>
+ <p style="text-align:justify "><a href="#id7.3.4.3"> 7.3.4.3</a> <span id="id7.3.4.3"> 采用滑动测微计测量时，应按下列公式计算应变值：</span></p>
+
+$$e=(e^{'}-z_0)\\cdot K \\tag{7.3.4-3}$$ 
+
+$$e=e-e_0\\tag{7.3.4-4}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>e</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">仪器读数修正值；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>e</i><sup>'</sup></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">仪器读数；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>z</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">仪器零点；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>K</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">率定系数；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>ε</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">应变值；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>e</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">初始测试仪器读数修正值。</td>
+ </tr>  
+ </table>   
+ <P> </P>
+ <p style="text-align:justify "><a href="#id7.3.4.4"> 7.3.4.4</a> <span id="id7.3.4.4"> 据处理时，应删除异常测点数据，求出同一断面有效测点的应变平均值，并按下式计算该断面处桩身轴力：</span></p>
+
+$$Q_{\\mathrm{i} }=\\overline{\\varepsilon} _{\\mathrm{i} }\\cdot E_{\\mathrm{i} }\\cdot A_{\\mathrm{i} }\\tag{7.3.4-5}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身第i断面处轴力（kN）；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><math xmlns='http://www.w3.org/1998/Math/MathML'> <msub> <mrow> <mover> <mrow> <mi> &#x03B5; <!-- greek small letter epsilon --> </mi> </mrow> <mrow> <mo> - </mo> </mrow> </mover> </mrow> <mrow> <mi> i </mi> </mrow> </msub> </math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">仪器读数；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>E</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第i断面处桩身材料弹性模量(kPa)；当混凝土桩桩身测量断面与标定断面两者的材质、配筋一致时，应按标定断面处的应力与应变的比值确定；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>A</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第i断面处桩身截面面积（m<sup>2</sup>）。</td>
+ </tr>
+  </table>   
+ <P> </P>
+
+ <p style="text-align:justify "><a href="#id7.3.4.5"> 7.3.4.5</a> <span id="id7.3.4.5"> 每级试验荷载下，应将桩身不同断面处的轴力值制成表格，并绘制轴力分布图。桩侧土的分层摩阻力和桩端阻力应按下列公式计算：</span></p>
+
+$$q_{\\mathrm{si} }=\\dfrac{Q_{\\mathrm{i} }-Q_{\\mathrm{i+1} }}{u\\cdot l_{\\mathrm{i}}}\\tag{7.3.4-6}$$
+
+$$q_{\\mathrm{p} }=\\dfrac{Q_{\\mathrm{n} }}{A_0}\\tag{7.3.4-7}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>q</i><sub>si</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩第i断面与i+1断面间侧摩阻力(kPa);；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>i</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩检测断面顺序号，i=1,2,…,n,并自桩顶以下从小到大排列；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身第i断面处轴力(kN);</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>i+1</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身第i+1断面处轴力(kN);</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>u</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身周长(m)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>l</i><sub>1</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第i断面与第i+1断面之间的桩长(m)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>q</i><sub>p</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩的端阻力(kPa)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>n</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩端的轴力(kN);</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>A</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩端面积(m<sup>2</sup>),对于开口桩，宜考虑桩端闭塞效应。</td>
+ </tr>
+
+
+
+  </table>   
+ <P> </P>
+
+ <p style="text-align:justify "><a href="#id7.3.5"> 7.3.5</a> <span id="id7.3.5"> 测量沉降杆位移的检测仪器应符合轴向抗压静载荷试验的技术要求，数据的测读应与桩顶位移测量同步。</span></p>
+
+
+
+
+:math:`\ ` 

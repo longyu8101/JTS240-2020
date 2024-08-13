@@ -1,0 +1,83 @@
+6 水平承载力
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">6 水平承载力</h2>
+
+
+6.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id6.1.1"> 6.1.1</a> <span id="id6.1.1"> 基桩水平承载力试验检测可用于试验桩水平极限承载力的确定、工程桩水平承载力及相应的桩顶水平位移的检测。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.2"> 6.1.2</a> <span id="id6.1.2"> 确定水平地基反力系数和试验桩水平极限承载力的试验，宜在设计前进行；工程桩水平承载力及相应的桩顶水平位移的检测，可在工程施工期进行。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.3"> 6.1.3</a> <span id="id6.1.3"> 试验桩位置应根据设计要求选取有代表性的地点，也可利用轴向静载荷试验桩进行水平静荷载试验。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.4"> 6.1.4</a> <span id="id6.1.4"> 在距离试验桩3 m～10 m范围内应具有工程地质钻孔资料。泥面以下16倍桩径或桩宽深度范围内，每隔Im均应具有土样的物理力学性能指标；16倍桩径或桩宽以下深度，间距可适当加大。有条件时可进行现场十字板、静力触探或旁压试验。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.5"> 6.1.5</a> <span id="id6.1.5"> 试验桩沉桩后至加载的间歇时间应符合第3.3.5.4 款中轴向极限承载力试验的规定，土的类型按泥面以下16倍桩径或桩宽深度范围内土的性质综合确定。利用已完成轴向静载荷试验的桩进行水平承载力试验时，其间歇时间不宜少于3d。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.6"> 6.1.6</a> <span id="id6.1.6"> 试验桩桩顶应以自由状态进行试验。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.7"> 6.1.7</a> <span id="id6.1.7"> 桩内埋有测试元件或测斜管的试验桩，应控制沉桩后测试元件或测斜管的方位与试验加载方位一致。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.8"> 6.1.8</a> <span id="id6.1.8"> 水平荷载作用点高程宜与实际工程桩基承台底面高程一致。水平力的方向应通过试验桩截面中心。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.9"> 6.1.9</a> <span id="id6.1.9"> 试验桩桩身抗弯和抗变形能力应按预估最大试验荷载进行验算。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.10"> 6.1.10</a> <span id="id6.1.10"> 试验期间对周围环境条件的要求应按第4.1.11条的规定执行。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.11"> 6.1.11</a> <span id="id6.1.11"> 试验前的准备工作应按第4.1.12条的规定执行。</span></p>
+ <p style="text-align:justify "><a href="#id6.1.12"> 6.1.12</a> <span id="id6.1.12"> 水域试桩应搭设试桩平台。试验桩周边至平台的间隙不应小于预估的最大位移。当利用试桩平台构成反力系统时，应对平台进行结构设计与计算。搭设试桩平台的其他要求应按第4.1.10条的规定执行。</span></p>           
+
+
+6.2 仪器设备
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id6.2.1"> 6.2.1</a> <span id="id6.2.1"> 试验装置(<a href="#fig6.2.1">图6.2.1</a>)应由反力系统、加载系统和观测系统三部分组成。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.2"> 6.2.2</a> <span id="id6.2.2"> 反力系统的水平承载力和水平刚度应取试验桩的1.3倍～1.5倍，采取对顶法时净距不宜小于6倍桩径。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.3"> 6.2.3</a> <span id="id6.2.3"> 推力支承桩与试验桩净距不宜小于5倍桩径或桩宽，拉力支承桩与试验桩净距不宜小于10倍桩径或桩宽，且不宜小于6 m,基准桩与试验桩、反力支承结构的净距不宜小于5倍桩径或桩宽。</span></p>
+    <div align="center"><img id="fig6.2.1" src="./_static/fig/6.2.1.png" alt="Picture"   width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 6.2.1 水平承载力试验装置<br/>(a)立面图；(b)平面图<br/>1-横梁；2-传感器；3-千斤顶；4-压力表；5-百分表；6-基准梁；7-试验桩；8-垫块；9-反力桩；10-基准桩；11-球铰</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig6.2.1'));</script>
+ <p style="text-align:justify "><a href="#id6.2.4"> 6.2.4</a> <span id="id6.2.4"> 加载设备应符合下列要求。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.4.1"> 6.2.4.1</a> <span id="id6.2.4.1"> 加载设备宜采用卧式千斤顶、卷扬机或手拉葫芦。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.4.2"> 6.2.4.2</a> <span id="id6.2.4.2"> 加载设备的额定加载能力应为预估最大试验荷载的1.3倍～1.5倍。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.4.3"> 6.2.4.3</a> <span id="id6.2.4.3"> 千斤顶及其配套设施应符合第4.2.6条的规定，其与试验桩的接触部位应设置球型铰支座。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.4.4"> 6.2.4.4</a> <span id="id6.2.4.4"> 用卷扬机或手拉葫芦加载时，应配用钢丝绳、卡环、滑轮组等机具和拉力传感器。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.4.5"> 6.2.4.5</a> <span id="id6.2.4.5"> 水平荷载作用部位应局部加强或增大受力面积。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.5"> 6.2.5</a> <span id="id6.2.5"> 测系统应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.5.1"> 6.2.5.1</a> <span id="id6.2.5.1"> 基准桩和基准梁应稳固可靠、自成独立体系。</span></p>
+ <p style="text-align:justify "><a href="#id6.2.5.2"> 6.2.5.2</a> <span id="id6.2.5.2"> 桩顶水平位移测量宜采用位移计或百分表，桩顶转角测试宜采用测斜仪或位移计。水平位移的测试精度不宜低于0.02 mm,截面转角的测试精度不宜低于5"。</span></p> 
+
+
+6.3 试验方法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id6.3.1"> 6.3.1</a> <span id="id6.3.1"> 水平承载力试验宜采用单向单循环水平维持荷载法。根据设计要求也可采用单向多循环水平维持荷载法或其他方法。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.2"> 6.3.2</a> <span id="id6.3.2"> 加载方式可采用水平推力或水平拉力。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3"> 水平承载力试验应对试验桩在水平荷载作用高程处的水平位移进行测试。有条件时，宜测试桩在泥面高程处的水平位移。位移测试方向应与水平荷载方向一致，同一高程设置的测点不应少于2个。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.4"> 6.3.4</a> <span id="id6.3.4"> 桩顶转角应在水平荷载作用点以上部位测试。当采用固定式测斜仪时，可将仪器安设在桩顶顶面或桩的侧面，测试方向应与桩的位移方向一致；当采用位移计时，两层位移计的间距宜为50 cm。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.5"> 6.3.5</a> <span id="id6.3.5"> 测试桩身弯曲应变时，测点应布置在泥面至设计第一弯矩零点处的区段内，测点间距不宜大于1 m。同一截面内的测点，应设在最大拉应变和最大压应变处。应变测试宜采用光纤光栅应变计、电阻应变计或弦式应变计</span></p>
+ <p style="text-align:justify "><a href="#id6.3.6"> 6.3.6</a> <span id="id6.3.6"> 桩的挠曲变形可通过在桩内预埋测斜管，采用活动式测斜仪逐段对桩身斜率变化进行测试，预埋测斜管的测斜方向应与桩身挠曲变形方向一致。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.7"> 6.3.7</a> <span id="id6.3.7"> 加卸载均应分级进行，加载时每级级差可取预估最大荷载的1/10,卸载时可取2倍加载级。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.8"> 6.3.8</a> <span id="id6.3.8"> 加载每级应维持20 min，卸载每级应维持10 min；在每级荷载维持时间内，应从0开始每隔5 min测读一次。全部卸载后应每隔10 min 测读一次，测读30 min。测读数据应现场记录、整理和汇总。</span></p>
+ <p style="text-align:justify "><a href="#id6.3.9"> 6.3.9</a> <span id="id6.3.9"> 符合下列条件之一时，可终止加载：</span></p>
+ <ol>
+ <li>达到试验要求的最大荷载或最大位移； </li>
+ <li>在某级荷载作用下，桩顶水平位移急剧增加、位移速率明显增大； </li>
+ <li>地基土出现明显的斜裂缝或桩身断裂。 </li>
+ </ol>
+
+6.4 成果分析
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id6.4.1"> 6.4.1</a> <span id="id6.4.1"> 试验检测结束后，应绘制水平荷载—水平位移(<i>H</i>-<i>Y</i>)曲线、力作用点荷载——时间——水平位移(<i>H</i>-<i>t</i>-<i>Y</i>)曲线或力作用点荷载—水平地基反力系数随深度增长的比例系数(<i>H</i>-<i>m</i>)曲线；埋设量测装置的试桩，应绘制桩身弯矩分布曲线、桩顶或泥面处倾斜角度变化曲线等，可根据实测变形和桩身弯矩，计算并绘制桩身挠曲、桩侧土抗力与变形关系(<i>P</i>-<i>Y</i>)曲线簇。</span></p>
+ <p style="text-align:justify "><a href="#id6.4.2"> 6.4.2</a> <span id="id6.4.2"> 基桩水平极限承载力应根据<i>H</i>-<i>Y</i>曲线上第二折点前一级荷载(<a href="#fig6.4.2">图6.4.2</a>)或lg<i>H</i>-lg<i>Y</i>曲线上第二折点的前一级荷载等方法综合确定，试验桩为钢桩的应取第一折点。</span></p>
+
+   <div align="center"><img id="fig6.4.2" src="./_static/fig/6.4.2.png" alt="Picture"  width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 6.4.2 H-Y曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig6.4.2'));</script>
+
+
+:math:`\ ` 

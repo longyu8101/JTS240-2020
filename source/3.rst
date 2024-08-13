@@ -1,0 +1,297 @@
+3 基本规定
+==============
+
+.. raw:: html
+
+  <h2 id="test111">3 基本规定</h2>
+
+
+3.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.1.1"> 3.1.1</a> <span id="id3.1.1"> 基桩试验检测可分为为设计、施工提供依据的试验桩试验和为工程验收提供依据的工程桩检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.2"> 3.1.2</a> <span id="id3.1.2"> 运工程基桩试验检测应综合考虑地质条件、桩基类型、成桩工艺、桩身材质、各种试验检测方法的特点和适用范围等因素，合理选择试验检测方法，确定试验检测内容和数量。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.3"> 3.1.3</a> <span id="id3.1.3"> 根据工程情况和设计要求，试验桩试验宜包括下列内容：</span></p>
+ <ol>
+ <li>打入桩施工前的可打性分析；</li>
+ <li>打入桩的打桩过程监测；</li>
+ <li>基桩完整性检测；</li>
+ <li>基桩承载力试验；</li>
+ <li>分层侧摩阻力试验。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.1.4"> 3.1.4</a> <span id="id3.1.4"> 基桩轴向承载力除下列情况外应根据静载荷试验确定：</span></p>
+ <ol>
+ <li>当附近工程有试桩资料，且沉桩工艺相同，地质条件相近时；</li>
+ <li>附属建筑物；</li>
+ <li>桩数较少的建筑物，并经技术论证；</li>
+ <li>有其他可靠的替代试验方法时。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.1.5"> 3.1.5</a> <span id="id3.1.5"> 基桩静载荷试验前应先进行桩身完整性检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.6"> 3.1.6</a> <span id="id3.1.6"> 桩身完整性分类应符合表<a href="#B43.1.6">表3.1.6</a>的规定，桩身完整性类别为I类、Ⅱ类的桩应判为“合格”,桩身完整性类别为Ⅲ类、IV类的桩应判为“不合格”。</span></p>     
+
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.1.6">表3.1.6 桩身完整性分类</b></caption>	
+              
+		    <tr>
+		     <td  align="center" width="350"  id="dhbg">类别</td>
+             <td  align="center" width="550"  id="dhbg">分类原则</td>
+		    </tr>
+		    <tr>
+		     <td  align="center"  id="dhbg">I类桩</td>
+             <td  align="center"  id="dhbg">桩身完整</td>
+		    </tr>
+		    <tr>
+		     <td  align="center"  id="dhbg">II类桩</td>
+             <td  align="center"  id="dhbg">桩身有轻微缺陷，不会影响桩身结构承载力的正常发挥</td>
+		    </tr>
+		    <tr>
+		     <td  align="center"  id="dhbg">III类桩</td>
+             <td  align="center"  id="dhbg">桩身有明显缺陷，对桩身结构承载力有影响</td>
+		    </tr>
+		    <tr>
+		     <td  align="center"  id="dhbg">IV类桩</td>
+             <td  align="center"  id="dhbg">桩身存在严重缺陷</td>
+		    </tr>                                                                                             			
+		</table>
+ <p> </p>
+
+
+3.2 试验检测目的与方法选择
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.2.1"> 3.2.1</a> <span id="id3.2.1"> 试验桩和工程桩的试验检测应根据试验检测目的、方法的适应性、桩基的设计条件、成桩工艺等综合确定，按<a href="#B3.2.1">表3.2.1</a>合理选择试验检测方法。必要时，应选择两种或两种以上的检测方法。</span></p>
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.2.1">表3.2.1 试验检测目的及方法</b></caption>	
+              
+		    <tr>
+		     <td  align="center" width="450"  id="dhbg">试验目的</td>
+             <td  align="center" width="450"  id="dhbg">试验检测及分析方法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg">确定基桩轴向抗压极限承载力</td>
+             <td  align="left"  id="dhbg">轴向抗压静载荷试验、自平衡法、高应变法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 判定轴向抗压承载力是否满足设计要求</td>
+             <td  align="left"  id="dhbg"> 轴向抗压静载荷试验、自平衡法、高应变法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 验证高应变法的基桩轴向抗压承载力检测结果</td>
+             <td  align="left"  id="dhbg"> 轴向抗压静载荷试验、自平街法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 确定基桩轴向抗拔极限承载力</td>
+             <td  align="left"  id="dhbg"> 轴向抗拔静载荷试验、自平衡法</td>
+		    </tr>  
+		    <tr>
+		     <td  align="left"  id="dhbg"> 判定轴向抗拔承载力是否满足设计要求</td>
+             <td  align="left"  id="dhbg"> 轴向抗拔静载荷试验、自平衡法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 确定桩的分层侧摩阻力</td>
+             <td  align="left"  id="dhbg"> 分层侧摩阻力试验</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 确定基桩水平临界荷载和极限承载力，推定土抗力参数</td>
+             <td  align="left"  id="dhbg"> 水平承载力试验</td>
+		    </tr> 
+		    <tr>
+		     <td  align="left"  id="dhbg"> 判定水平承载力或水平位移是否满足设计要求</td>
+             <td  align="left"  id="dhbg"> 水平承载力试验</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 通过桩身应变、位移测试，测定桩身弯矩</td>
+             <td  align="left"  id="dhbg"> 水平承载力试验</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 确定嵌岩桩锚杆的抗拔极限承载力</td>
+             <td  align="left"  id="dhbg"> 锚杆抗拔静载荷试验</td>
+		    </tr> 
+		    <tr>
+		     <td  align="left"  id="dhbg"> 判定嵌岩桩锚杆的承载力是否满足设计要求</td>
+             <td  align="left"  id="dhbg"> 锚杆抗拔静载荷试验</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 分析基桩轴向极限承载力、总锤击数和终锤贯入度，为选择合理的打桩锤和制定合理的沉桩标准提供依据</td>
+             <td  align="left"  id="dhbg"> 可打性分析</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 检测桩身缺陷及其位置，判定桩身完整性类别</td>
+             <td  align="left"  id="dhbg"> 高应变法、低应变法、声波透射法</td>
+		    </tr> 
+		    <tr>
+		     <td  align="left"  id="dhbg"> 检测灌注桩桩长、桩身混凝土强度、桩底沉渣厚度，判定或鉴别桩端持力层岩土性状，判定桩身完整性类别</td>
+             <td  align="left"  id="dhbg"> 钻芯法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 分析桩侧和桩端土阻力</td>
+             <td  align="left"  id="dhbg"> 静载荷试验、自平衡法、高应变法</td>
+		    </tr>
+		    <tr>
+		     <td  align="left"  id="dhbg"> 进行打桩过程监测</td>
+             <td  align="left"  id="dhbg"> 高应变法</td>
+		    </tr>                                                                       			
+		</table>
+ <p> </p>
+ <p style="text-align:justify "><a href="#id3.2.2"> 3.2.2</a> <span id="id3.2.2"> 轴向抗压承载力试验宜选择轴向抗压静载荷试验；对于打入桩，试验桩在进行其他荷载试验前应先进行高应变法试验检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.3"> 3.2.3</a> <span id="id3.2.3"> 打入桩打桩施工前，应根据地质条件、承载力要求、桩端设计高程、打桩锤参数等进行可打性分析，分析基桩轴向承载力、总锤击数和终锤贯入度。可打性分析可按附录A进行。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.4"> 3.2.4</a> <span id="id3.2.4"> 下列情况之一时，应进行桩身的分层侧摩阻力试验：</span></p>
+  <ol>
+ <li>场地地质条件复杂、土层变化大；</li>
+ <li>工程区域分层侧摩阻力的选取缺少工程经验。</li>
+ </ol>   
+
+
+3.3 试验检测工作程序
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.3.1"> 3.3.1</a> <span id="id3.3.1"> 基桩试验检测工作应包括调查和资料收集、制定试验检测方案、实施前准备、现场试验检测、数据分析和结果评价、出具试验检测报告。必要时，还应进行验证检测或扩大检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.3.2"> 3.3.2</a> <span id="id3.3.2"> 查、资料收集宜包括下列内容：</span></p>
+ <ol>
+ <li>收集工程的岩土工程勘察资料、桩基设计文件、施工记录，了解施工工艺和施工中出现的异常情况；</li>
+ <li>委托方的具体要求；</li>
+ <li>试验检测项目现场实施的可行性。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.3.3"> 3.3.3</a> <span id="id3.3.3"> 试验检测方案的主要内容应包括工程概况、水文地质条件、桩基设计要求、施工工艺、试验检测目的、试验检测方法和数量、受检桩选取原则、试验检测进度，以及所需的其他配合事项。</span></p>
+ <p style="text-align:justify "><a href="#id3.3.4"> 3.3.4</a> <span id="id3.3.4"> 试验检测用仪器设备应在检定或校准的有效期内。基桩试验检测前，应对仪器设备进行检查调试。</span></p>    
+ <p style="text-align:justify "><a href="#id3.3.5"> 3.3.5</a> <span id="id3.3.5"> 进行基桩试验检测应满足下列要求。</span></p>
+ <p style="text-align:justify "><a href="#id3.3.5.1"> 3.3.5.1</a> <span id="id3.3.5.1"> 采用低应变法或声波透射法检测时，受检桩混凝土强度不应低于设计强度的70%,且不应低于15 MPa</span></p>
+ <p style="text-align:justify "><a href="#id3.3.5.2"> 3.3.5.2</a> <span id="id3.3.5.2"> 采用钻芯法检测时，受检桩的混凝土龄期应达到28d,或受检桩同条件养护试件强度达到设计强度要求</span></p>
+ <p style="text-align:justify "><a href="#id3.3.5.3"> 3.3.5.3</a> <span id="id3.3.5.3"> 进行嵌岩桩锚杆抗拔承载力检测时，锚固体抗压强度应达到70%准值以上。</span></p>
+ <p style="text-align:justify "><a href="#id3.3.5.4"> 3.3.5.4</a> <span id="id3.3.5.4"> 进行桩的轴向极限承载力试验检测时，打入桩在沉桩后到进行检测的间歇时间，砂性土中不应少于3d,黏性土中不应少于14d,淤泥或淤泥质土中的摩擦桩不应少于25d,水冲沉桩不应少于28d;对灌注桩，除应满足上述要求外，其桩身混凝土抗压强度应达到设计要求。</span></p>
+ <p style="text-align:justify "><a href="#id3.3.5.5"> 3.3.5.5</a> <span id="id3.3.5.5"> 载荷试验桩进行复压或抗拔试验时，间歇时间应大于3d。</span></p>     
+ <p style="text-align:justify "><a href="#id3.3.6"> 3.3.6</a> <span id="id3.3.6"> 验收检测的受检桩选择，应考虑下列情况：</span></p>
+ <ol>
+ <li>质量有疑问的桩；</li>
+ <li>局部地基条件出现异常的桩；</li>
+ <li>设计方指定需要检测的桩；</li>
+ <li>施工工艺不同的桩。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.3.7"> 3.3.7</a> <span id="id3.3.7"> 发现检测数据异常时，应查找原因，重新检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.3.8"> 3.3.8</a> <span id="id3.3.8"> 现场操作环境不满足仪器设备使用要求时，应采取有效的防护措施。</span></p>   
+
+
+3.4 试验检测数量
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.4.1"> 3.4.1</a> <span id="id3.4.1"> 试验桩的试验应依据设计确定的基桩受力状态，采用相应的静载荷试验方法确定基桩极限承载力或验证基桩承载力。轴向静载荷试验桩的数量应根据地质条件、桩的材质、桩径、桩长、桩端型式和工程桩总数等确定；总桩数在500根以下时，试验桩数量不应少于2根；总桩数每增加 500根，宜增加1根试验桩。根据地质条件、桩的类型、当地经验等情况可适当增减。基桩水平承载力试验桩的数量应根据要求和工程地质条件等确定，不宜少于2根。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.2"> 3.4.2</a> <span id="id3.4.2"> 灌注桩桩身完整性的检测数量应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.2.1"> 3.4.2.1</a> <span id="id3.4.2.1"> 桩身混凝土完整性检测数量应为100%数，检测方法可采用低应变法或声波透射法；对桩径大于1000 mm、泥面以下长度大于30 m或地质条件复杂的桩，应采用声波透射法检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.2.2"> 3.4.2.2</a> <span id="id3.4.2.2"> 芯法检测应在桩身混凝土达到设计强度后进行，检测数量按桩的总数抽取1%~3%且不少于3根。对于嵌岩灌注桩，钻芯法检测数量宜取桩总数的3%~5%且不少于2根。对质量有疑问的桩应逐根检查。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.3"> 3.4.3</a> <span id="id3.4.3"> 混凝土预制桩桩身完整性检测应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.3.1"> 3.4.3.1</a> <span id="id3.4.3.1"> 于混凝土预制管桩，条件允许时，宜采用孔内摄像进行桩身完整性检测</span></p>
+ <p style="text-align:justify "><a href="#id3.4.3.2"> 3.4.3.2</a> <span id="id3.4.3.2"> 混凝土预制桩沉桩后，应采用低应变法对桩身质量进行抽样检测，检测数量不得少于总桩数的10%，且不得少于10根；对于多节预制混凝土桩，检测桩数不得低于总桩数的20%,且不得少于10根；混凝土预制桩有现场接桩、沉桩中发生贯入度过大或存在其他影响桩身结构完整性的异常情况时，应逐根进行检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.4"> 3.4.4</a> <span id="id3.4.4"> 当符合下列条件之一时，应采用静载荷试验进行基桩轴向承载力的验收检测：</span></p>  
+ <ol>
+ <li>施工前未按第3.4.1条进行试验桩静载荷试验的工程；</li>
+ <li>桩身有明显缺陷，对桩身结构承载力有影响，采用完整性检测难以确定其影响程度；</li>
+ <li>采用新桩型或新工艺的桩基工程；</li>
+ <li>施工前进行了基桩静载荷试验，但施工过程中变更了工艺参数或施工质量出现了异常；</li>
+ <li>场地地质条件复杂，桩施工质量可靠性低的桩基工程。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.4.5"> 3.4.5</a> <span id="id3.4.5"> 基桩轴向抗压承载力检测数量应符合下列规定</span></p>  
+ <p style="text-align:justify "><a href="#id3.4.5.1"> 3.4.5.1</a> <span id="id3.4.5.1"> 采用静载荷试验时，检测数量和要求应符合第3.4.1条规定</span></p> 
+ <p style="text-align:justify "><a href="#id3.4.5.2"> 3.4.5.2</a> <span id="id3.4.5.2"> 预制桩或满足高应变法适用范围的灌注桩，可采用高应变法检测基桩轴向抗压承载力，检测数量宜取总桩数的2%~5%，且不得少于5根。地质条件复杂、桩的种类较多或其他特殊情况，可适当增加检测数量。</span></p> 
+ <p style="text-align:justify "><a href="#id3.4.5.3"> 3.4.5.3</a> <span id="id3.4.5.3"> 对于端承型大直径混凝土灌注桩，受设备或场地条件无法用锚桩法或堆载法等常规方式进行基桩轴向抗压承载力检测时，宜采用自平衡法进行基桩轴向抗压承载力检测。自平衡法无法采用时，可采用钻芯法测定桩底沉渣厚度，并钻取桩端持力层岩土芯样检验桩端持力层，检测数量不应少于总桩数的10且不应少于10根。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.6"> 3.4.6</a> <span id="id3.4.6"> 需要控制打桩过程中的桩身应力、确定沉桩工艺参数、选择沉桩设备或选择桩端持力层时，宜采用高应变法进行试打桩的打桩过程监测。桩的试打测试和打桩过程监测相关要求可参照附录 B。在相同施工工艺和相近地基条件下，试打桩数量不应少于3根。需要复打测试校核的，复打桩数不宜少于3根。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.7"> 3.4.7</a> <span id="id3.4.7"> 对轴向抗拔或水平承载力有设计要求的桩基工程，基桩承载力验收检测应采用基桩轴向抗拔或水平静载试验，检测数量不应少于总桩数的1且不应少于3根。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.8"> 3.4.8</a> <span id="id3.4.8"> 任何一种新型锚杆或未曾使用过锚杆的岩层均应进行破坏性试验，破坏性试验锚杆的数量不宜少于2根。锚杆嵌岩桩应进行验证性试验，验证性试验锚杆的数量，根据桩的使用要求和基岩状况，宜控制在锚杆总数的20%~40%当该地区基岩层地质条件好，且做过破坏性试验，验证性试验的数量宜取下限，反之宜取上限。</span></p>   
+
+
+3.5 验证与扩大检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.5.1"> 3.5.1</a> <span id="id3.5.1"> 基桩轴向抗压承载力验证应采用基桩轴向抗压静载荷试验。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.2"> 3.5.2</a> <span id="id3.5.2"> 桩身浅部缺陷可采用开挖验证。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.3"> 3.5.3</a> <span id="id3.5.3"> 桩身或接头存在裂隙的预制桩可采用高应变法验证，管桩可采用孔内摄像的方式验证。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.4"> 3.5.4</a> <span id="id3.5.4"> 单孔钻芯检测发现桩身混凝土存在质量问题时，可在同一基桩增加钻孔验证，并根据前、后钻芯结果对受检桩重新评价。</span></p>    
+ <p style="text-align:justify "><a href="#id3.5.5"> 3.5.5</a> <span id="id3.5.5"> 低应变法检测中不能明确桩身完整性类别的桩或Ⅲ类桩，可根据实际情况采用静载荷试验法、钻芯法、高应变法或开挖等方法进行验证检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.6"> 3.5.6</a> <span id="id3.5.6"> 桩身混凝土实体强度可在桩顶浅部钻取芯样验证。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.7"> 3.5.7</a> <span id="id3.5.7"> 采用低应变法、高应变法和声波透射法检测桩身完整性发现有Ⅲ、IV类桩存在，且检测数量覆盖的范围不能为补强或设计变更方案提供可靠依据时，宜采用原检测方法，在未检桩中继续扩大检测。当原检测方法为声波透射法时，可改用钻芯法。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.8"> 3.5.8</a> <span id="id3.5.8"> 基桩承载力或钻芯法检测结果不满足设计要求时，应分析原因并扩大检测。</span></p>  
+ <p style="text-align:justify "><a href="#id3.5.9"> 3.5.9</a> <span id="id3.5.9"> 验证检测或扩大检测采用的方法和检测数量应得到工程建设有关方的确认。</span></p>   
+
+
+
+3.6 试验检测报告
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.6.1"> 3.6.1</a> <span id="id3.6.1"> 试验检测报告应包括下列内容：</span></p>
+ <ol>
+ <li>委托方全称，工程名称、地点，建设、勘察、设计、监理和施工单位，基础、结构形式，层数，设计要求，试验检测目的，试验检测依据，试验检测数量，试验检测日期； </li>
+ <li>地基条件描述； </li>
+ <li>受检桩的桩型、尺寸、桩号、桩位、桩顶高程和相关施工记录； </li>
+ <li>试验检测方法，试验检测仪器设备型号、编号、检定证书号，试验检测过程叙述； </li>
+ <li>受检桩的试验检测数据，实测与计算分析曲线、表格和汇总结果； </li>
+ <li>与试验检测内容相应的试验检测结论。 </li>
+ </ol>
+
+ <p style="text-align:justify "><a href="#id3.6.2"> 3.6.2</a> <span id="id3.6.2"> 试验检测报告封面应包括报告标题、工程名称、工程地点、报告编号、试验单位名称、试验或检测资质证书编号及出具报告日期。</span></p>
+ <p style="text-align:justify "><a href="#id3.6.3"> 3.6.3</a> <span id="id3.6.3"> 试验检测报告扉页应由试验检测人员、校核人员、审核人员、授权签字人签名。</span></p>
+ <p style="text-align:justify "><a href="#id3.6.4"> 3.6.4</a> <span id="id3.6.4"> 试验检测报告封面的左上角应加盖计量认证章。封面和结论页应加盖试验单位检测报告专用章。</span></p>  

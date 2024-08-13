@@ -1,0 +1,496 @@
+4 轴向抗压承载力
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">4 轴向抗压承载力</h2>
+
+
+4.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1"> 轴向抗压承载力试验检测可用于试验桩轴向抗压极限承载力的确定和工程桩轴向抗压承载力的检测。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 确定试验桩轴向抗压极限承载力的试验，宜在初步设计阶段进行；工程桩轴向抗压承载力的检测，可在工程施工期间进行。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.3"> 4.1.3</a> <span id="id4.1.3"> 确定轴向极限抗压承载力的试验应加载至破坏；工程桩轴向抗压承载力的检测，最大加载量应达到设计要求。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.4"> 4.1.4</a> <span id="id4.1.4"> 轴向抗压静载荷试验可采用慢速维持荷载法(慢速法)或快速维持荷载法(快速法),有经验时也可采用循环法、恒载法等方法。外海试桩宜采用快速法。载荷试验中需测定桩的轴向刚度系数时，在永久荷载标准值到永久荷载与可变荷载标准值的组合值之间，应至少往复加卸载3次，并应取趋于稳定的一次循环的首尾点进行计算。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.5"> 4.1.5</a> <span id="id4.1.5"> 试验桩的位置应根据工程总体布置、工程进度、地质、地形、水文条件和设计要求等确定。试验桩的尺寸、入土深度和进入持力层的深度应具有代表性。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.6"> 4.1.6</a> <span id="id4.1.6"> 距离静载荷试验桩3 m～10 m的范围内应具有钻孔资料，钻孔底高程应低于桩端高程，试验桩桩端与钻孔孔底的高程差不宜小于3倍桩径或桩宽，对于摩擦桩桩端与孔底的高程差取值，一般黏性土宜取5 m～8 m；老黏性土、中密和密实砂土宜取 3 m～5 m;碎石类土宜取2 m。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.7"> 4.1.7</a> <span id="id4.1.7"> 试验桩桩身强度及压屈稳定应按预估最大试验荷载进行验算。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.8"> 4.1.8</a> <span id="id4.1.8"> 地质情况复杂且缺乏沉桩经验时，宜根据相应的钻孔资料，选择有代表性的区域进行可打性分析。必要时应进行试沉桩，其规格应与工程桩一致，且附近应有钻孔资料。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.9"> 4.1.9</a> <span id="id4.1.9"> 工程桩进行轴向抗压承载力验收检测时，加载量应符合设计要求。设计没有规定时，加载量应满足下列要求：</span></p>
+ <ol>
+ <li>打入桩，加载量不小于设计要求的基桩轴向抗压承载力设计值的1.4倍；</li>
+ <li>灌注桩，加载量不小于设计要求的基桩轴向抗压承载力设计值的1.6倍；</li>
+ <li>嵌岩桩，加载量不小于设计要求的基桩轴向抗压承载力设计值的1.7倍。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.1.10"> 4.1.10</a> <span id="id4.1.10"> 在水域进行静载荷试验应搭设牢固的试桩平台。平台不得与试验桩和基准桩相连，其高程应考虑水位和风浪等的影响。平台应设置必要的护栏、人行爬梯、安全标识、信号灯和救生设备等安全设施，并配备通信和交通等设备。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11"> 4.1.11</a> <span id="id4.1.11"> 试验检测不得在大风、大浪等气象水文条件恶劣情况下进行。静载荷试验检测期间，距离桩50 m范围内不得进行打桩作业，并应避免各种振动影响，严禁船舶碰撞试桩平台</span></p>
+ <p style="text-align:justify "><a href="#id4.1.12"> 4.1.12</a> <span id="id4.1.12"> 试验检测前的准备工作应包括下列内容：</span></p>          
+ <ol>
+ <li>收集工程总体布置的有关资料；</li>
+ <li>收集工程所在区域的地质、地形、水文和气象等有关资料；</li>
+ <li>收集试验桩、基准桩、锚桩和工程桩的结构图、沉桩资料和动测试验资料；</li>
+ <li>编制试验大纲和进行试验设计；</li>
+ <li>试验检测采用的计量器具和千斤顶应按有关规定进行检定；</li>
+ <li>试验桩内预埋必要的应力应变等测试元件。</li>
+ </ol>
+
+4.2 轴向抗压静载荷试验
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 上基桩的轴向抗压静载荷试验检测宜采用锚桩法。锚桩应进行抗拔能力验算。当锚桩反力不足时，可叠加部分压载。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.2"> 4.2.2</a> <span id="id4.2.2"> 锚桩法轴向抗压静载荷试验过程中应对锚桩上拔量进行监测，其上拔量应控制在设计允许范围内。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3"> 对于轴向抗压静载荷试验，试验桩、锚桩沉桩的过程应进行沉桩控制，试验桩和锚桩的桩顶偏位不应大于100 mm,试验桩纵轴线倾斜度不应大于1/200,锚桩纵轴线倾斜度不应大于1/100,并进行记录。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.4"> 4.2.4</a> <span id="id4.2.4">  试验装置应由反力系统、加载系统和观测系统三部分组成。锚桩法轴向抗压静载荷试验装置示意图见<a href="#fig4.2.4.1">图4.2.4-1</a>,堆载法轴向抗压静载荷试验装置示意图见<a href="#fig4.2.4.2">图4.2.4-2</a>。</span></p> 
+
+   <div align="center"><img id="fig4.2.4.1" src="./_static/fig/4.2.4.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.2.4-1 锚桩法轴向抗压静载荷试验装置示意图<br/> (a)立面图；(b)平面图</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.2.4.1'));</script>
+
+   <div align="center"><img id="fig4.2.4.1" src="./_static/fig/4.2.4.2.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.2.4-2 堆载法加载示意图</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.2.4.2'));</script>
+
+ <p style="text-align:justify "><a href="#id4.2.5"> 4.2.5</a> <span id="id4.2.5"> 力系统应根据现场条件，选择锚桩反力装置、压重平台反力装置、锚桩压重联合反力装置等，且应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.5.1"> 4.2.5.1</a> <span id="id4.2.5.1"> 承载能力应为预估最大试验荷载的1.3倍~1.5倍。</span></p>
+ <p style="text-align:justify "><a href="#id4.2.5.2"> 4.2.5.2</a> <span id="id4.2.5.2"> 受力构件应满足强度和变形要求。</span></p>
+ <p style="text-align:justify "><a href="#id4.2.5.3"> 4.2.5.3</a> <span id="id4.2.5.3"> 反力系统应便于安全安装和拆卸</span></p>
+ <p style="text-align:justify "><a href="#id4.2.5.4"> 4.2.5.4</a> <span id="id4.2.5.4"> 压重平台反力装置的压重应在检测前一次加足，并均匀稳固地堆置于平台上。压重施加于地基的压应力不宜大于地基承载力设计值的1.5倍。</span></p>
+ <p style="text-align:justify "><a href="#id4.2.5.5"> 4.2.5.5</a> <span id="id4.2.5.5"> 采用锚桩和压重联合提供反力时，压载重物应对称堆放，并应考虑反力系统的整体稳定。</span></p>    
+ <p style="text-align:justify "><a href="#id4.2.6"> 4.2.6</a> <span id="id4.2.6"> 加载系统应符合下列规定。</span></p>  
+ <p style="text-align:justify "><a href="#id4.2.6.1"> 4.2.6.1</a> <span id="id4.2.6.1"> 千斤顶的额定加载能力应为预估最大试验荷载的1.3倍～1.5倍。使用2台及以上千斤顶时，应采用同一型号的千斤顶，同步并联。</span></p>   
+ <p style="text-align:justify "><a href="#id4.2.6.2"> 4.2.6.2</a> <span id="id4.2.6.2"> 千斤顶加载量的量测宜采用压力表，也可采用压力传感器或者荷载传感器压力表精度应优于或等于0.4级，压力表的额定量程应满足千斤顶额定加载能力的需要，压力传感器或荷载传感器的测量误差不应大于1%</span></p>  
+ <p style="text-align:justify "><a href="#id4.2.6.3"> 4.2.6.3</a> <span id="id4.2.6.3"> 高压油泵加压时，宜采用自动稳压措施。</span></p>  
+ <p style="text-align:justify "><a href="#id4.2.6.4"> 4.2.6.4</a> <span id="id4.2.6.4"> 压力表、油泵、油管在最大试验荷载时的压力不应大于规定工作压力的80%。</span></p>          
+ <p style="text-align:justify "><a href="#id4.2.7"> 4.2.7</a> <span id="id4.2.7"> 备安装应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.7.1"> 4.2.7.1</a> <span id="id4.2.7.1"> 反力系统安装前，应按试验要求对桩头进行处理。混凝土桩头处理可参照附录C</span></p>  
+ <p style="text-align:justify "><a href="#id4.2.7.2"> 4.2.7.2</a> <span id="id4.2.7.2"> 反力系统应以试验桩为中心对称布置，荷载重心应与试验桩的轴线相吻合。</span></p>  
+ <p style="text-align:justify "><a href="#id4.2.7.3"> 4.2.7.3</a> <span id="id4.2.7.3"> 采用2台及以上千斤顶时，其合力应通过试验桩的纵轴线。</span></p>  
+ <p style="text-align:justify "><a href="#id4.2.7.4"> 4.2.7.4</a> <span id="id4.2.7.4"> 千斤顶与试验桩、反力梁间应设置钢垫块。</span></p>     
+ <p style="text-align:justify "><a href="#id4.2.8"> 4.2.8</a> <span id="id4.2.8"> 观测系统应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.8.1"> 4.2.8.1</a> <span id="id4.2.8.1"> 基准桩宜采用2根，并不得与其他桩相连。基准梁应具有足够的刚度，安设在基准桩上，一端固定，另一端简支。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.8.2"> 4.2.8.2</a> <span id="id4.2.8.2"> 沉降测量宜采用4个位移计或百分表，沿两个方向对称布置，沉降测量平面宜设在桩顶下0.2 m～1.0 m的位置。严禁在桩顶钢垫块上设置沉降测量点。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.8.3"> 4.2.8.3</a> <span id="id4.2.8.3"> 锚桩上拔量可采用位移计或百分表进行监测。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.8.4"> 4.2.8.4</a> <span id="id4.2.8.4"> 沉降测量仪表量程应为30 mm～100 mm,分辨率应优于或等于0.01 mm,测量误差不得大于0.1%FS。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.8.5"> 4.2.8.5</a> <span id="id4.2.8.5"> 沉降测量仪表应采用磁性表座固定在基准梁上，测杆轴线应与观测点的位移方向一致。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.8.6"> 4.2.8.6</a> <span id="id4.2.8.6"> 试验过程中，应采取防雨、防晒、防振和防碰撞等措施。</span></p>      
+ <p style="text-align:justify "><a href="#id4.2.9"> 4.2.9</a> <span id="id4.2.9"> 锚桩应以试验桩为中心对称布置。试验桩与锚桩、基准桩的中心距不应小于4倍桩径或桩宽，且不应小于2 m;基准桩与锚桩的中心距不应小于3倍桩径或桩宽，且不应小于2 m。对于桩端进入良好持力层且桩径大于或等于1.2 m 的大直径试验桩，其与锚桩、基准桩的中心距不应小于3倍桩径。采用堆载法试验时，试验桩中心距压重平台支墩边不应小于4倍桩径或桩宽，且不应小于2 m;基准桩距压重平台支墩边不应小于3倍桩径或桩宽，且不应小于2 m。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.10"> 4.2.10</a> <span id="id4.2.10"> 加载、卸载均应分级进行，宜采用等量分级。每分级荷载可为预估最大试验荷载的1/10～1/12,第一级可按2倍分级荷载加载；每级卸载可为分级荷载的2倍。加载、卸载时应确保荷载平稳、连续、无冲击和无超载。每级加载、卸载时间不宜少于1 min。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.11"> 4.2.11</a> <span id="id4.2.11"> 采用快速法加载时，每级荷载应维持60 min再施加下一级荷载。在外海气象、水文条件恶劣且桩端进入良好持力层的情况下，快速法也可采用30 min施加一级荷载。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.12"> 4.2.12</a> <span id="id4.2.12"> 当采用慢速法加载时，桩顶在某级荷载作用下，60 min 内对应的沉降值小于0.1 mm,可定为该级沉降达到稳定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.13"> 4.2.13</a> <span id="id4.2.13"> 每一级荷载维持时间应按<a href="#B4.2.13">表4.2.13</a>的规定执行。</span></p> 
+
+
+
+
+
+
+
+
+ <p style="text-align:justify "><a href="#id4.2.14"> 4.2.14</a> <span id="id4.2.14"> 加载时，沉降测读时间依次应为0 min、5 min、10 min、15 min、30 min,其后应每隔30 min测读一次，直至达到荷载维持时间的规定为止。卸载时，快速法测读时间间隔应为5 min;慢速法测读时间依次应为0 min、15 min、30 min、60 min。卸载至零时应测读一次，维持时间结束时再测读一次。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.15"> 4.2.15</a> <span id="id4.2.15"> 试验中各项观测数据应及时记录，并当场做数据整理汇总。手工记录汇总格式可参照附录D。异常情况时应及时做详尽记录。汇总后，应绘制荷载—沉降(<i>Q</i>-<i>s</i>)曲线和沉降—时间对数(<i>s</i>-<i>lgt</i>)曲线等。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.16"> 4.2.16</a> <span id="id4.2.16"> 符合下列条件之一时，可终止加载：</span></p> 
+ <ol>
+ <li style="text-align:justify" >某级荷载作用下，桩顶沉降量大于前一级荷载作用下沉降量的5倍或<i>Q</i>-<i>s</i>曲线出现可以判断极限承载力的陡降段，且桩顶总沉降量大于40 mm;</li>
+ <li style="text-align:justify" >采用慢速维持荷载法试验时，在某级荷载作用下，24h 未达到稳定；</li>
+ <li style="text-align:justify" ><i>Q</i>-<i>s</i>曲线没有明显陡降段，桩顶总沉降量达60 mm～80 mm或达到设计要求的最大允许沉降量；</li>
+ <li style="text-align:justify" >验证性试验已达到设计要求的最大加载量。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.2.17"> 4.2.17</a> <span id="id4.2.17"> 桩的轴向抗压极限承载力判定应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.17.1"> 4.2.17.1</a> <span id="id4.2.17.1"> <i>Q</i>-<i>s</i>曲线有可以判定极限承载力的陡降段时，可取明显陡降段起始点相对应的荷载作为极限承载力。陡降段的起始点可采用下列方法之一确定：</span></p> 
+ <p style="text-align:justify;text-indent:2em;" > 当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mfrac><mrow><mi mathvariant="normal">Δ</mi><msub><mi>s</mi><mrow><mi>n</mi></mrow></msub></mrow><mrow><mi mathvariant="normal">Δ</mi><msub><mi>Q</mi><mrow><mi>n</mi></mrow></msub></mrow></mfrac><mo>⩽</mo><mi>f</mi><mo stretchy="false">(</mo><mi>L</mi><mo stretchy="false">)</mo></math>，而<math xmlns="http://www.w3.org/1998/Math/MathML" ><mfrac><mrow><mi mathvariant="normal">Δ</mi><msub><mi>s</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mrow><mi mathvariant="normal">Δ</mi><msub><mi>Q</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow></mfrac><mo>&gt;</mo><mi>f</mi><mo stretchy="false">(</mo><mi>L</mi><mo stretchy="false">)</mo></math>时，或 <math xmlns="http://www.w3.org/1998/Math/MathML" ><mfrac><mrow><mi mathvariant="normal">Δ</mi><msub><mi>s</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mrow><mi mathvariant="normal">Δ</mi><msub><mi>Q</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow></mfrac><mrow><mo>/</mo></mrow><mfrac><mrow><mi mathvariant="normal">Δ</mi><msub><mi>s</mi><mrow><mi>n</mi></mrow></msub></mrow><mrow><mi mathvariant="normal">Δ</mi><msub><mi>Q</mi><mrow><mi>n</mi></mrow></msub></mrow></mfrac><mo>&gt;</mo><mn>5</mn></math>且<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>s</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>&gt;</mo><mn>40</mn></math> mm时，<i>n</i>点对应的荷载为极限承载力，见<a href="#fig4.2.17">图4.2.17(a)</a>,<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>f</mi><mo stretchy="false">(</mo><mi>L</mi><mo stretchy="false">)</mo></math>单位为mm/kN,按下式计算：</p>
+
+$$f(L)=\\dfrac{3.3}{L}-0.04\\tag{4.2.17}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>L</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩长(m);</td>
+ </tr>
+
+ </table>   
+ <P> </P>
+.. raw:: html
+
+ <p style="text-align:justify;text-indent:2em;" > 当<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> Q </mi> <mo> / </mo> <msub> <mrow> <mi> Q </mi> </mrow> <mrow> <mi> max </mi> </mrow> </msub> <mo> - </mo> <mn> s </mn> <mo> / </mo> <mi> d </mi> </math>曲线有明显陡降，挤土桩的曲线斜率开始转变为大于0.3 或大直径开口管桩等低挤土管桩的曲线斜率开始转变为0.2的点对应的荷载为极限承载力，其中<math xmlns='http://www.w3.org/1998/Math/MathML'> <msub> <mrow> <mi> Q </mi> </mrow> <mrow> <mi> max </mi> </mrow> </msub> </math>为试验所加的最大荷载，<i>s</i>为沉降、<i>d</i>为桩径；</p>
+ <p style="text-align:justify;text-indent:2em;" > (3)在<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>s</mi><mo>−</mo><mi>l</mi><mi>g</mi><mi>t</mi></math>曲线中取曲线斜率明显变陡或曲线尾部明显向下曲折的前一级荷载作为极限承载力。</p>
+
+
+
+ <p style="text-align:justify "><a href="#id4.2.17.2"> 4.2.17.2</a> <span id="id4.2.17.2"> 加载终止条件符合第4.2.16条(2)的情况，但<i>Q</i>-<i>s</i>曲线上没有可判定极限承载力的陡降段时，可取该不稳定荷载的前一级荷载为极限承载力。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.17.3"> 4.2.17.3</a> <span id="id4.2.17.3"> <i>Q</i>-<i>s</i>曲线没有明显陡降时，在<i>Q</i>-<i>s</i>曲线上取桩顶总沉降量s达到40 mm相对应的荷载作为极限承载力，见<a href="#fig4.2.17">图4.2.17(b)</a>。对于钢管桩或桩长超过50 m的预应力混凝土大直径管桩所取用的桩顶总沉降量应适当加大，加大值可取桩身弹性压缩值。</span></p> 
+
+  <div align="center"><img id="fig4.2.17" src="./_static/fig/4.2.17.png" alt="Picture" width="600px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.2.17 <i>Q</i>-<i>s</i>曲线 <br/>(a)有陡降段的<i>Q</i>-<i>s</i>曲线；(b)无陡降段的<i>Q</i>-<i>s</i>曲线<br/>n-加载级；<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x0394; <!-- greek capital letter delta --> </mi> <msub> <mrow> <mi> S </mi> </mrow> <mrow> <mi> n </mi> </mrow> </msub> <mo> - </mo> <mi> n </mi> </math>级沉降增量；<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x0394; <!-- greek capital letter delta --> </mi> <msub> <mrow> <mi> Q </mi> </mrow> <mrow> <mi> n </mi> </mrow> </msub> <mo> - </mo> <mi> n </mi> </math>级荷载增量；<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x0394; <!-- greek capital letter delta --> </mi> <msub> <mrow> <mi> S </mi> </mrow> <mrow> <mi> n </mi> <mo> - </mo> <mn> 1 </mn> </mrow> </msub> <mo> - </mo> <mi> n </mi> <mo> + </mo> <mn> 1 </mn> </math>级沉降增量；<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> &#x0394; <!-- greek capital letter delta --> </mi> <msub> <mrow> <mi> Q </mi> </mrow> <mrow> <mi> n </mi> <mo> - </mo> <mn> 1 </mn> </mrow> </msub> <mo> - </mo> <mi> n </mi> <mo> + </mo> <mn> 1 </mn> </math>级荷载增量</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.2.17'));</script>
+
+ <p style="text-align:justify "><a href="#id4.2.17.4"> 4.2.17.4</a> <span id="id4.2.17.4"> 极限承载力宜取初压值。</span></p> 
+
+ <p style="text-align:justify "><a href="#id4.2.18"> 4.2.18</a> <span id="id4.2.18"> 基桩轴向抗压承载力标准值应根据试验桩位置和地质条件等综合确定。当各试验桩条件基本相同且数量不少于2根时，极限抗压承载力标准值的确定应符合下列规定。</span></p>   
+ <p style="text-align:justify "><a href="#id4.2.18.1"> 4.2.18.1</a> <span id="id4.2.18.1"> 桩的极限抗压承载力最大值和最小值之比小于或等于1.3，宜取平均值作为基桩轴向极限抗压承载力标准值。</span></p>   
+ <p style="text-align:justify "><a href="#id4.2.18.2"> 4.2.18.2</a> <span id="id4.2.18.2"> 桩的极限抗压承载力最大值和最小值之比大于1.3，应通过分析确定，必要时应增加试桩数量。</span></p>   
+
+
+
+4.3 自平衡法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 自平衡法试验仪器设备（<a href="#fig4.3.1">图4.3.1</a>）应包括荷载箱、位移传感器和数据采集系统等。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> 荷载箱应符合下列规定。</span></p> 
+
+  <div align="center"><img id="fig4.3.1" src="./_static/fig/4.3.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.3.1 试验装置示意图<br/>1-基准梁；2-位移传感器；3-上位移杆(丝)；4-下位移杆(丝);5-桩顶位移引测杆；6-油泵；7-油管；8-测桩仪；9-基桩侧壁；10-钢筋笼；11-上部桩；12-喇叭筋；13-上位移护管；14-下位移护管(可兼作注浆管);15-荷载箱；16-下部桩或持力层</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.1'));</script>
+
+ <p style="text-align:justify "><a href="#id4.3.2.1"> 4.3.2.1</a> <span id="id4.3.2.1"> 组成荷载箱的千斤顶应经法定计量单位标定。荷载箱出厂前应试压，试压值不得小于额定加载值，且应维持2 h以上。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.2.2"> 4.3.2.2</a> <span id="id4.3.2.2"> 荷载箱额定加载值对应的油压值不宜大于45 MPa,最大单向加载值对应的油压值不宜大于55 MPa。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.2.3"> 4.3.2.3</a> <span id="id4.3.2.3"> 荷载箱在工厂试压和现场试验应采用同一型号的压力表。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.2.4"> 4.3.2.4</a> <span id="id4.3.2.4"> 荷载应采用并联于荷载箱的压力表测定油压，根据荷载箱率定曲线换算荷载。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.2.5"> 4.3.2.5</a> <span id="id4.3.2.5"> 压力表应经法定计量单位标定，且在规定的有效期内使用。压力表精度应优于或等于0.4级，压力传感器或荷重传感器的测量误差不应大于1%。</span></p>     
+ <p style="text-align:justify "><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3"> 位移传感器应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.3.1"> 4.3.3.1</a> <span id="id4.3.3.1"> 位移传感器可采用百分表或电子位移计，分辨率应优于或等于0.01 mm,测量误差不得大于0.1% FS。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.3.2"> 4.3.3.2</a> <span id="id4.3.3.2"> 根试桩应布置两组位移传感器，每组两个，对称布置，分别用于测定荷载箱处的向上、向下位移。桩径较大时应增加传感器数量。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.3.3"> 4.3.3.3</a> <span id="id4.3.3.3"> 根试桩桩顶应布置一组位移传感器，用来测定桩顶位移。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.3.4"> 4.3.3.4</a> <span id="id4.3.3.4"> 固定和支承位移传感器的夹具和基准梁在构造上应确保不受气温、振动及其他外界因素的影响，防止发生竖向变位。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.3.5"> 4.3.3.5</a> <span id="id4.3.3.5"> 移传感器应经法定计量单位标定，且在规定的有效期内使用。</span></p>    
+ <p style="text-align:justify "><a href="#id4.3.4"> 4.3.4</a> <span id="id4.3.4"> 荷载箱的埋设位置应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.4.1"> 4.3.4.1</a> <span id="id4.3.4.1"> 限桩端阻力小于极限桩侧摩阻力时，荷载箱宜置于平衡点处，使上、下段桩的极限承载力基本相等。</span></p>  
+ <p style="text-align:justify "><a href="#id4.3.4.2"> 4.3.4.2</a> <span id="id4.3.4.2"> 限桩端阻力大于极限桩侧摩阻力时，荷载箱宜置于桩底端，根据桩的长径比、地质情况可采取下列措施：</span></p>  
+ <ol>
+ <li>桩顶提供一定量的配重；</li>
+ <li>用小直径桩模拟，先测出极限桩端承载力，再根据实际尺寸换算总的桩端阻力值。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.3.4.3"> 4.3.4.3</a> <span id="id4.3.4.3"> 试桩为抗拔桩时，荷载箱宜直接置于桩底。对摩擦桩进行抗拔测试时，应对桩底进行加固处理。</span></p>  
+ <p style="text-align:justify "><a href="#id4.3.4.4"> 4.3.4.4</a> <span id="id4.3.4.4"> 有特殊需要时，可采用双荷载箱或多荷载箱，分别测试桩的极限桩端阻力和各段桩的极限侧摩阻力。荷载箱的埋设位置应根据特殊需要确定。</span></p>     
+ <p style="text-align:justify "><a href="#id4.3.5"> 4.3.5</a> <span id="id4.3.5"> 位移杆和护套管应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.5.1"> 4.3.5.1</a> <span id="id4.3.5.1"> 位移杆应具有一定的刚度。桩长小于或等于40 m，可用直径25 mm～30 mm的钢管作为位移杆；桩长大于40 m，宜用位移钢丝代替位移杆。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.5.2"> 4.3.5.2</a> <span id="id4.3.5.2"> 保护位移杆的护套管，应与荷载箱顶盖焊接，焊缝应满足强度要求，并确保护套管不渗漏水泥浆。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.5.3"> 4.3.5.3</a> <span id="id4.3.5.3"> 在保证位移传递达到足够精度的前提下，也可采用其他形式的位移传递系统。</span></p>   
+ <p style="text-align:justify "><a href="#id4.3.6"> 4.3.6</a> <span id="id4.3.6"> 基准桩和基准梁应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.6.1"> 4.3.6.1</a> <span id="id4.3.6.1"> 基准桩与试桩之间的中心距离应大于或等于3倍试桩直径，且不小于4.0 m；基准桩应具有充分的稳定性，打入地面或河(海)床面以下足够的深度，陆上不应小于1 m。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.6.2"> 4.3.6.2</a> <span id="id4.3.6.2"> 基准桩和基准梁应有一定的刚度。基准梁的截面高度不应小于其跨度的1/40，基准桩的线刚度不应小于基准梁线刚度的3倍。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.6.3"> 4.3.6.3</a> <span id="id4.3.6.3"> 基准梁的一端应固定在基准桩上，另一端应简支在基准桩上。</span></p>      
+ <p style="text-align:justify "><a href="#id4.3.7"> 4.3.7</a> <span id="id4.3.7"> 自平衡法的现场检测应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.7.1"> 4.3.7.1</a> <span id="id4.3.7.1"> 加卸载应分级进行。每级加载量为预估最大加载量的1/10～1/15。当桩端为巨粒土、粗粒土或坚硬黏质土时，第一级可按两倍分级荷载加载。每级卸载量可取2～3个加载级的荷载值</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.7.2"> 4.3.7.2</a> <span id="id4.3.7.2"> 加卸载应均匀连续，每级荷载在维持过程中的变化幅度不得大于分级荷载的10%。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.7.3"> 4.3.7.3</a> <span id="id4.3.7.3"> 每级加卸载后第1 h内应在第0 min、5 min、10 min、15 min、30 min、45 min、60 min测读位移，后每隔30 min测读一次，达到相对稳定后方可加卸下一级荷载。卸载到零后应至少观测2 h,测读时间间隔同加载。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.7.4"> 4.3.7.4</a> <span id="id4.3.7.4"> 自平衡法加卸载的稳定标准应符合下列规定：</span></p> 
+ <ol>
+ <li>桩端为漂石、碎石或黏性土夹砂，每级加卸载的向上、向下位移量在最后30 min内均不大于0.1 mm；</li>
+ <li>桩端为粉质黏土或细砂，每级加卸载的向上、向下位移量在最后60 min 内均不大于0.1 mm。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.3.7.5"> 4.3.7.5</a> <span id="id4.3.7.5"> 向上、向下两个方向应分别判定和取值，平衡状态下两个方向均宜达到终止加载条件再终止加载。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.7.6"> 4.3.7.6</a> <span id="id4.3.7.6"> 每个方向的加载终止条件和相应极限加载值的取值应符合下列规定：</span></p>  
+ <ol>
+ <li style="text-align:justify" >总位移量大于或等于40 mm，且本级荷载的位移量大于或等于前一级荷载位移量的5倍时，加载即可终止，取终止时荷载前一级的荷载为极限加载值；</li>
+ <li style="text-align:justify" >总位移量大于或等于40 mm，且24 h后未达稳定，加载即可终止，取终止时荷载前一级的荷载为极限加载值；</li>
+ <li style="text-align:justify" >巨粒土、密实砂类土以及坚硬的黏质土中，总位移量小于40 mm,且荷载满足设计要求，加载即可终止，取此时的荷载为极限加载值；</li>
+ <li style="text-align:justify" >施工过程中的验收性检测，加载量符合第4.1.9条的规定，桩的总位移量不大于40 mm，以及最后一级加载引起的位移不大于前一级加载引起的位移的5倍，该桩可以验收；</li>
+ <li style="text-align:justify" >极限荷载难以确定时，绘制荷载—位移(<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> Q </mi> <mo> - </mo> <mi> s </mi> </math>)曲线、位移—时间(<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> s </mi> <mo> - </mo> <mi> t </mi> </math>)曲线确定，必要时绘制<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> s </mi> <mo> - </mo> <mi> lgt </mi> </math>曲线、<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> s </mi> <mo> - </mo> <mi> lgQ </mi> </math>曲线(单对数法)、<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> s </mi> <mo> - </mo> <mrow> <mo> [ </mo> <mn> 1 </mn> <mo> - </mo> <mi> Q </mi> <mo> / </mo> <msub> <mrow> <mi> Q </mi> </mrow> <mrow> <mi> max </mi> </mrow> </msub> <mo> ] </mo> </mrow> </math>曲线(百分率法)等进行综合比较，确定比较合理的极限荷载取值。</li>
+ </ol>  
+ <p style="text-align:justify "><a href="#id4.3.8"> 4.3.8</a> <span id="id4.3.8"> 试验过程中应及时记录或打印各项观测数据，进行数据整理和汇总。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.9"> 4.3.9</a> <span id="id4.3.9"> 基桩轴向抗压极限承载力和基桩轴向抗拔极限承载力可分别按下列公式确定：</span></p> 
+
+$$Q_{\\mathrm{ult} }=\\dfrac{Q_{\\mathrm{u}}-W}{\\gamma ^{'}}\\tag{4.3.9-1}$$
+
+$$Q_{\\mathrm{ult} }=Q_{\\mathrm{u}}\\tag{4.3.9-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>ult</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">基桩的极限承载力（kN）；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>u</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">上段桩的加载极限值（kN）；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sub>l</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">下段桩的加载极限值（kN）；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>W</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">荷载箱上部桩自重（kN）；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>γ</i><sup>'</sup></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">侧摩阻力修正系数，可按地区经验取值；当无地区经验时，根据荷载箱上部土的类型确定：黏性土、粉土<i>γ</i><sup>'</sup>=0.8；砂土<i>γ</i><sup>'</sup>=0.7；岩层<i>γ</i><sup>'</sup>=1.0；上部有不同类型的土层，<i>γ</i><sup>'</sup>取加权平均值。</td>
+ </tr>
+ </table>   
+ <P> </P>
+ <p style="text-align:justify "><a href="#id4.3.10"> 4.3.10</a> <span id="id4.3.10"> 试验检测报告除应包括第3.6节规定的内容外，尚应包括下列内容：</span></p> 
+ <ol>
+ <li>原始数据记录表、汇总表和相应的<i>Q</i>-<i>s</i>、<i>s</i>-lg<i>t</i>、<i>s</i>-lg<i>Q</i>等曲线；</li>
+ <li>布置桩身应力传感器时，绘制桩身内力图和各岩土层摩阻力图。</li>
+ </ol>
+
+
+
+4.4 高应变法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> 采用高应变法进行灌注桩的轴向抗压承载力检测时，应具有现场实测经验和本地区相近条件下的可靠对比验证资料；对于大直径扩底桩和预估<i>Q</i>-<i>s</i>曲线具有缓变型特征的大直径灌注桩，不宜采用高应变法进行轴向抗压承载力检测。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> 检测仪器应具有现场显示、记录、存储实测力与加速度信号的功能，并能进行数据处理、打印和绘图。数据采集的模拟—数字转换器的位数不应小于16位，通道之间的相位差应小于50 μs。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> 检测仪器应定期进行标定，标定的周期应符合国家法律法规的有关规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.4"> 4.4.4</a> <span id="id4.4.4"> 打桩机械或类似的装置均可作为锤击设备。重锤宜用铸钢或铸铁制作，且应质量均匀、形状对称、锤底平整。采用自由落锤时，锤的重量应不小于预估基桩极限承载力的1%。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.5"> 4.4.5</a> <span id="id4.4.5"> 试验检测时，桩的贯入度可采用水准仪等光学仪器测定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.6"> 4.4.6</a> <span id="id4.4.6"> 现场试验检测参数的取值应符合下列规定。</span></p>   
+ <p style="text-align:justify "><a href="#id4.4.6.1"> 4.4.6.1</a> <span id="id4.4.6.1"> 桩的截面面积、桩材的重度和弹性模量应在测点处取值。</span></p>  
+ <p style="text-align:justify "><a href="#id4.4.6.2"> 4.4.6.2</a> <span id="id4.4.6.2"> 桩长应取传感器安装位置至桩底间的距离。</span></p>  
+ <p style="text-align:justify "><a href="#id4.4.6.3"> 4.4.6.3</a> <span id="id4.4.6.3"> 桩身应力波波速的设定应符合下列规定：</span></p> 
+ <ol>
+ <li> 钢桩波速值设定为5120 m/s；</li>
+ <li> 混凝土桩根据经验波速设定，并根据实测波速进行调整。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.4.6.4"> 4.4.6.4</a> <span id="id4.4.6.4"> 桩材重度的设定应符合下列规定：</span></p> 
+ <ol>
+ <li> 钢桩重度设定为78.5 kN/m<sup>3</sup>;</li>
+ <li> 混凝土预制桩重度设定为24.5 kN/m<sup>3</sup>~26.0 kN/m<sup>3</sup>;</li>
+ <li> 混混凝土灌注桩重度设定为24.0 kN/m<sup>3</sup>。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.4.6.5"> 4.4.6.5</a> <span id="id4.4.6.5"> 桩材弹性模量设定值应按下式计算：</span></p>  
+
+
+$$E=\\dfrac{\\gamma C^2}{g}\\times 10^{-3}\\tag{4.4.6}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>E</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩材弹性模量(MPa)；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>γ</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩材重度(kN/m<sup>3</sup>)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>C</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身应力波波速(m/s)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>g</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">重力加速度(m/s<sup>2</sup>)。</td>
+ </tr>
+ </table>   
+ <P> </P>
+
+
+ <p style="text-align:justify "><a href="#id4.4.6.6"> 4.4.6.6</a> <span id="id4.4.6.6"> 力传感器和加速度传感器标定系数应采用国家法定计量单位开具的标定系数。</span></p>     
+ <p style="text-align:justify "><a href="#id4.4.7"> 4.4.7</a> <span id="id4.4.7"> 现场检测应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.7.1"> 4.4.7.1</a> <span id="id4.4.7.1"> 检测桩桩头应能承受重锤的冲击，对已受损或其他原因不能保证锤击能量正常传递的桩头应在检测前进行处理。混凝土桩头的处理方法可按附录C的规定执行。</span></p>  
+ <p style="text-align:justify "><a href="#id4.4.7.2"> 4.4.7.2</a> <span id="id4.4.7.2"> 桩顶应设置桩垫，桩垫宜采用胶合板、木板或纤维板等材质均匀的材料。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.7.3"> 4.4.7.3</a> <span id="id4.4.7.3"> 采用自由落锤为锤击设备时，应符合重锤低击原则，最大锤击落距不宜大于1.5 m。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.7.4"> 4.4.7.4</a> <span id="id4.4.7.4"> 承载力检测时应实测桩的贯入度，单击贯入度宜为2 mm~6 mm</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.7.5"> 4.4.7.5</a> <span id="id4.4.7.5"> 传感器安装应满足下列要求：</span></p>    
+ <ol>
+ <li style="text-align:justify "> 在桩身两侧沿桩轴线对称安装两只加速度传感器和两只力传感器，见<a href="#fig4.4.7">图4.4.7</a>;传感器的中心处于同一横截面上；传感器与桩顶间的垂直距离，桩径大于1 m的桩，一般不小于1倍桩径；其他桩一般不小于2倍桩径或桩宽；</li>
+ <li style="text-align:justify "> 安装传感器的桩身表面平整，且其周围无缺陷或截面突变；</li>
+ <li style="text-align:justify "> 传感器的安装一般采用膨胀螺栓固定，螺栓孔与桩侧面垂直，安装后的力传感器和加速度传感器紧贴桩身；</li>
+ <li style="text-align:justify "> 水上检测时，应采取措施预防传感器或导线接头进水；</li>
+ <li style="text-align:justify "> 锤击时，将传感器电缆线固定在桩身上，预防振动受损。</li> 
+ </ol> 
+
+ <div align="center"><img id="fig4.4.7" src="./_static/fig/4.4.7.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.7 测点处传感器安装示意图(尺寸单位：mm)<br/>(a)混凝土方桩；(b)混凝土灌注桩；(·)I型钢桩；(d)管桩<i>l</i>-传感器与桩顶间的距离；<i>d</i>-桩径或桩宽</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.7'));</script>
+ <p style="text-align:justify "><a href="#id4.4.7.6"> 4.4.7.6</a> <span id="id4.4.7.6"> 检测出现下列情况之一时，应及时检查、调整或停止检测：</span></p> 
+ <ol>
+ <li style="text-align:justify "> 测试仪器失灵；</li>
+ <li style="text-align:justify "> 传感器松动、测点处混凝土开裂、桩身出现明显缺陷且缺陷程度加剧；</li>
+ <li style="text-align:justify "> 测试信号异常或连续采集时信号无规律、离散性较大。</li>
+ </ol> 
+ <p style="text-align:justify "><a href="#id4.4.8"> 4.4.8</a> <span id="id4.4.8"> 高应变法试验检测数据的选取应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.8.1"> 4.4.8.1</a> <span id="id4.4.8.1"> 锤击后出现下列情况之一时，其信号不得作为分析计算的依据：</span></p> 
+ <ol>
+ <li style="text-align:justify "> 力的时程曲线最终未归零；</li>
+ <li style="text-align:justify "> 锤击严重偏心，一侧力信号呈现受拉状态；</li>
+ <li style="text-align:justify "> 传感器出现故障；</li>
+ <li style="text-align:justify "> 测点处桩身混凝土开裂或有明显变形；</li>
+ <li style="text-align:justify "> 其他信号异常情况。</li> 
+ </ol> 
+ <p style="text-align:justify "><a href="#id4.4.8.2"> 4.4.8.2</a> <span id="id4.4.8.2"> 分析计算轴向抗压承载力的信号，宜取锤击能量较大的测次。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.9"> 4.4.9</a> <span id="id4.4.9"> 分析计算前，平均波速的确定应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.9.1"> 4.4.9.1</a> <span id="id4.4.9.1"> 桩底反射信号较明显时，波速确定应满足下列要求：</span></p> 
+ <ol>
+ <li style="text-align:justify "> 根据速度波第一峰上升沿的起点到桩底反射峰上升沿的起点之间的时差与已知桩长值确定平均波速，见<a href="#fig4.4.9.1">图4.4.9-1</a>;</li>
+ <li style="text-align:justify "> 根据实测信号下行波上升沿的起点和上行波下降沿的起点之间的时差与已知桩长值确定平均波速，见<a href="#fig4.4.9.2">图4.4.9-2</a>,下行波和上行波的幅值按下列公式计算：</li>
+ </ol> 
+
+$$F_{\\mathrm{d}}=\\dfrac{1}{2}(F+V \\cdot Z)\\tag{4.4.9-1}$$
+
+$$F_{\\mathrm{u}}=\\dfrac{1}{2}(F-V \\cdot Z)\\tag{4.4.9-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>F</i><sub>d</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">时刻测点处测得的下行波的幅值(kN)；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>F</i><sub>u</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">某时刻测点处测得的上行波的幅值(kN)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>F</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">某时刻测点处实测的锤击力(kN)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>V</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">某时刻测点处实测的速度(m/s)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>Z</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身截面力学阻抗(kN·m/s)。</td>
+ </tr> 
+ </table>   
+ <P> </P>
+
+
+  <div align="center"><img id="fig4.4.9.1" src="./_static/fig/4.4.9.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.9.1 速度波法桩身波速的确定示意图<br/><i>F</i>-某时刻测点处实测的锤击力(KN);<i>L</i>-测点以下桩长(m);<i>V</i>-某时刻测点处实测的速度(m/s);<i>Z</i>-桩身截面力学阻抗(kN·s/m);<i>t</i>-锤击力作用下应力反射到测点处的时间(ms);<i>C</i>-桩身应力波波速(m/s)</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.9.1'));</script>
+
+  <div align="center"><img id="fig4.4.9.2" src="./_static/fig/4.4.9.2.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.9.2 下行波法桩身波速的确定示意图<br/>F<i>F</i>-某时刻测点处实测的锤击力(kN);<i>F</i><sub>J</sub>-某时刻测点处测得的下行波的幅值(kN);<i>F</i><sub>u</sub>-某时刻测点处测得的上行波的幅值(kN);<i>L</i>-测点以下桩长(m);<i>C</i>-桩身应力波波速(m/s);<i>t</i>-锤击力作用下应力波反射到测点处的时间(ms)</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.9.2'));</script>
+
+ <p style="text-align:justify "><a href="#id4.4.9.2"> 4.4.9.2</a> <span id="id4.4.9.2"> 桩底反射信号不明显时，宜根据桩长、混凝土的经验波速和邻近桩的波速值综合确定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.10"> 4.4.10</a> <span id="id4.4.10"> 确定基桩轴向抗压承载力宜采用实测曲线拟合法，并应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.11"> 4.4.11</a> <span id="id4.4.11"> 采用CASE法确定基桩轴向抗压承载力时，应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.11.1"> 4.4.11.1</a> <span id="id4.4.11.1"> 检测桩应材质均匀、截面相等或基本相等。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.11.2"> 4.4.11.2</a> <span id="id4.4.11.2"> 应根据同一工程中相同类型桩的动、静对比试验确定土的阻尼系数；不具备动、静对比试验条件时，可通过实测曲线拟合法确定土的阻尼系数，其拟合桩数不应少于该工程高应变检测桩数的30且不得少于3根。</span></p>
+ <p style="text-align:justify "><a href="#id4.4.11.3"> 4.4.11.3</a> <span id="id4.4.11.3"> 基桩轴向抗压承载力可按下列公式计算：</span></p>
+
+$$R_{\\mathrm{C} }=(1-J_{\\mathrm{C}})[F(t_1)+Z\\cdot V(t_1)]/2+(1+J_{\\mathrm{C}})[F(t_2)-Z\\cdot V(t_2)]/2\\tag{4.4.11-1}$$
+
+$$Z=A\\cdot E/C\\tag{4.4.11-2}$$
+
+$$t_2=t_1+2L/C\\tag{4.4.11-3}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='right' id="eqzs">式中</td>
+ <td width="50px" align='right' id="eqzs"><i>R</i><sub>c</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">CASE法确定的基桩极限承载力(kN)；</td>
+ </tr>
+ <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td   align='right' id="eqzs"><i>J</i><sub>c</sub></td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs">CASE法阻尼系数；</td>
+ </tr>
+  <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td   align='right' id="eqzs"><i>F</i></td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs">某时刻测点处实测的锤击力(kN)；</td>
+ </tr>
+  <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td   align='right' id="eqzs"><i>t</i><sub>1</sub>、<i>t</i><sub>2</sub></td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs">速度第一峰和第二峰对应的时刻(ms)；</td>
+ </tr>
+  <tr>
+ <td   align='right' valign="top" id="eqzs"><i>F</i>(<i>t</i><sub>1</sub>)</td>
+ <td   align='right' id="eqzs">、<i>F</i>(<i>t</i><sub>2</sub>)</td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs"><i>t</i><sub>1</sub>、<i>t</i><sub>2</sub>时刻测点处实测的锤击力(kN)；</td>
+ </tr> 
+  <tr>
+ <td   align='right'  valign="top"id="eqzs"><i>V</i>(<i>t</i><sub>1</sub>)</td>
+ <td   align='right' id="eqzs">、<i>V</i>(<i>t</i><sub>2</sub>)</td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs"><i>t</i><sub>1</sub>、<i>t</i><sub>2</sub>时刻测点处实测点的速度(m/s)；</td>
+ </tr> 
+ <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td   align='right' id="eqzs"><i>Z</i></td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身截面力学阻抗(kN·s/m)；</td>
+ </tr> 
+ <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td   align='right'id="eqzs"><i>A</i></td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身截面面积(m<sup>2</sup>);</td>
+ </tr> 
+ <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td   align='right'id="eqzs"><i>E</i></td>
+ <td   align='left' id="eqzs">——</td>
+ <td id="eqzs">桩材的弹性模量(MPa)；</td>
+ </tr> 
+ <tr>
+ <td  align='center' id="eqzs"> </td>
+ <td  align='right'id="eqzs"><i>L</i></td>
+ <td  align='left' id="eqzs">——</td>
+ <td id="eqzs">测点以下桩长(m)；</td>
+ </tr> 
+ <tr>
+ <td   align='center' id="eqzs"> </td>
+ <td  align='right' id="eqzs"><i>C</i></td>
+ <td  align='left' id="eqzs">——</td>
+ <td id="eqzs">桩身应力波波速(m/s)。</td>
+ </tr> 
+ </table>   
+ <P> </P>
+
+ <p style="text-align:justify "><a href="#id4.4.12"> 4.4.12</a> <span id="id4.4.12">  试验检测报告除应包括第3.6节规定的内容外，尚应包括下列内容：</span></p>  
+ <ol>
+ <li style="text-align:justify ">计算中实际采用的桩身波速值；</li>
+ <li style="text-align:justify ">实测曲线拟合法所选用的各单元桩和土的模型参数、拟合曲线、土阻力沿桩身分布图；</li>
+ <li style="text-align:justify ">实测贯入度；</li>
+ <li style="text-align:justify ">对于试打桩和打桩过程监测，还需包括打桩机械、桩锤、桩垫类型、锤击数、桩周静土阻力、桩身锤击压应力、桩身锤击拉应力、桩锤实际传递给桩的能量与桩入土深度的关系、承载力与相应的贯入度。</li>
+ </ol> 
+
+
+
+:math:`\ ` 

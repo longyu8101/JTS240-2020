@@ -1,0 +1,118 @@
+8 桩身完整性
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">8 桩身完整性</h2>
+
+8.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.1.1"> 8.1.1</a> <span id="id8.1.1"> 桩身完整性的试验检测，应根据检测目的、检测方法的适应性、基桩的设计条件、成桩工艺等合理选择。</span></p>
+ <p style="text-align:justify "><a href="#id8.1.2"> 8.1.2</a> <span id="id8.1.2"> 桩身完整性试验检测结果评价，应给出每根受检桩的桩身完整性类别和缺陷位置。桩身完整性分类应符合表3.1.6的规定，并按各检测方法的具体技术标准划分。</span></p>
+   
+8.2 高应变法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 仪器设备应符合第4.4.2条～第4.4.5条的规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2"> 现场试验检测方法应符合第4.4.6条和第4.4.7条的规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 测试信号的选取和处理应符合第4.4.8条和第4.4.9条的规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 桩身完整性类别判定应结合桩身结构性状，采用β值法，按表8.2.4进行判定，并符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.2.5"> 8.2.5</a> <span id="id8.2.5"> 在判别桩的缺陷位置或缺陷程度时，应对实测力信号和速度信号的判别分析，并观测在连续锤击情况下缺陷程度的变化情况。</span></p>
+
+
+8.3 低应变法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.3.1"> 8.3.1</a> <span id="id8.3.1"> 低应变法检测评价桩身完整性，宜采用反射波法。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.2"> 8.3.2</a> <span id="id8.3.2"> 检测仪器应具有现场显示、记录、存储实测信号的功能，并能进行数据处理、打印和绘图。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.3"> 8.3.3</a> <span id="id8.3.3"> 传感器宜选用宽频带的加速度传感器，其灵敏度应大于10 0mV/g。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.4"> 8.3.4</a> <span id="id8.3.4"> 放大系统的增益应大于60 dB,长期变化量应小于1%；合输入端的噪声水平应低于3 μV;频带宽度应不窄于10 Hz～1000 Hz,滤波频率应能调整。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.5"> 8.3.5</a> <span id="id8.3.5"> 模拟-数字转换器的位数不应小于10位，采样时间宜为50 μs～1000 μs,应能分挡调整。</span></p> 
+ <p style="text-align:justify "><a href="#id8.3.6"> 8.3.6</a> <span id="id8.3.6"> 激振设备应根据检测需要选择手锤、力棒等激振设备。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.7"> 8.3.7</a> <span id="id8.3.7"> 混凝土灌注桩的桩身平均波速可通过现场已测的完整桩确定。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.8"> 8.3.8</a> <span id="id8.3.8"> 检测前应对电源、仪器设备、传感器、连线等逐项进行检查，性能正常方可进行测试。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.9"> 8.3.9</a> <span id="id8.3.9"> 检测桩的桩顶应密实、平整，桩头处理应符合附录C的规定</span></p>
+ <p style="text-align:justify "><a href="#id8.3.10"> 8.3.10</a> <span id="id8.3.10"> 传感器应稳固地安置，并宜安装在桩顶上。粘合剂可采用橡皮泥或黄油等材料，粘合效果可通过采集到的波形进行判断。</span></p> 
+ <p style="text-align:justify "><a href="#id8.3.11"> 8.3.11</a> <span id="id8.3.11"> 检测时，最佳激振方式应通过试验选定。实心桩，激振点宜选择在桩顶中部；空心桩，激振点宜选择在桩壁中部；直径大于1.0 m的桩，激振点不宜少于4处。激振点与传感器的距离不宜小于100 mm,激振应沿轴向进行。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.12"> 8.3.12</a> <span id="id8.3.12"> 上部有承台的桩的检测，可采用桩侧竖向激振或承台面桩内范围重锤竖向激振，并采用桩侧安装加速度传感器接收信号的方法进行。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.13"> 8.3.13</a> <span id="id8.3.13"> 信号采集和筛选，应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.13.1"> 8.3.13.1</a> <span id="id8.3.13.1"> 根据桩径大小，应对称布置2个~4个安装传感器的检测点；实心桩的激振点应选择在桩中心，检测点宜在距桩中心2/3半径处；空心桩的激振点和检测点宜为桩壁厚的1/2处，激振点和检测点与桩中心连线夹角宜为90°。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.13.2"> 8.3.13.2</a> <span id="id8.3.13.2"> 桩径较大或桩上部横截面尺寸不规则时，除应按上款在规定的激振点和检测点位置采集信号外，尚应根据实测信号特征，改变激振点和检测点的位置采集信号。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.13.3"> 8.3.13.3</a> <span id="id8.3.13.3"> 不同检测点或多次实测时域信号一致性较差时，应分析原因，增加检测点数量。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.13.4"> 8.3.13.4</a> <span id="id8.3.13.4"> 信号不应失真或产生零漂，信号幅值不应大于测量系统的量程。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.14"> 8.3.14</a> <span id="id8.3.14"> 检测桩宜选择3锤~6锤正常信号值并行平均和分析。当桩底反射信号不明显时，可对信号进行放大处理；有疑问的桩应改变激振设备或传感器位置进行多次检测，相互验证。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.15"> 8.3.15</a> <span id="id8.3.15"> 桩身完整性应根据实测信号的波形、波速、相位、振幅和频率等特征，并结合地质情况和施工过程进行综合判定。</span></p> 
+ <p style="text-align:justify "><a href="#id8.3.16"> 8.3.16</a> <span id="id8.3.16"> 桩身应力波波速可按式(8.3.16-1)或式(8.3.16-2)计算：</span></p>
+
+
+
+
+ <p style="text-align:justify "><a href="#id8.3.17"> 8.3.17</a> <span id="id8.3.17"> 桩身缺陷的断面位置可按式(8.3.17-1)或式(8.3.17-2)计算：</span></p>
+
+
+
+
+ <p style="text-align:justify "><a href="#id8.3.18"> 8.3.18</a> <span id="id8.3.18"> 桩身完整性判定宜按表8.3.18进行。</span></p>
+
+
+
+
+ <p style="text-align:justify "><a href="#id8.3.19"> 8.3.19</a> <span id="id8.3.19"> 试验检测报告除应包括第3.6节规定的内容外，尚应包括下列内容：</span></p>
+  <ol>
+ <li>桩身波速取值；</li>
+ <li>桩身完整性检测的实测信号曲线；</li>
+ <li>桩身完整性描述、缺陷的位置及桩身完整性类别；</li>
+ <li>时域信号时段所对应的桩身长度标尺、指数或线性放大的范围及倍数；或幅频信号曲线分析的频率范围、桩底或桩身缺陷对应的相邻谐振峰间的频差。</li>
+  </ol> 
+
+
+8.4 钻芯法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.4.1"> 8.4.1</a> <span id="id8.4.1"> 钻芯法可用于检测混凝土灌注桩的桩长、桩身混凝土强度、桩底沉渣厚度和桩身完整性。采用钻芯法判定或鉴别桩端持力层岩土性状时，钻探深度应满足设计要求。受检桩桩径不宜小于800 mm、长径比不宜大于30。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.2"> 8.4.2</a> <span id="id8.4.2"> 每根受检桩的钻芯孔数和钻孔位置，应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.3"> 8.4.3</a> <span id="id8.4.3"> 钻芯法的仪器设备应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.4"> 8.4.4</a> <span id="id8.4.4"> 钻芯法现场检测应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.5"> 8.4.5</a> <span id="id8.4.5"> 截取混凝土抗压芯样试件应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id8.4.6"> 8.4.6</a> <span id="id8.4.6"> 芯样试件抗压强度试验应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.7"> 8.4.7</a> <span id="id8.4.7"> 检测数据分析与判定应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.8"> 8.4.8</a> <span id="id8.4.8"> 试验检测报告除应包括第3.6节规定的内容外，尚应包括下列内容：</span></p>  
+
+
+
+8.5 钻芯法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.5.1"> 8.5.1</a> <span id="id8.5.1"> 声波透射法可用于桩径不小于0.6 m的混凝土灌注桩的桩身完整性检测，判定桩身缺陷的位置、范围和程度。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.2"> 8.5.2</a> <span id="id8.5.2"> 出现下列情况之一时，不得采用声波透射法对整桩的桩身完整性进行评定：</span></p>
+ <p style="text-align:justify "><a href="#id8.5.3"> 8.5.3</a> <span id="id8.5.3"> 声波发射与接收换能器应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.4"> 8.5.4</a> <span id="id8.5.4"> 声波检测仪应具有下列功能：</span></p>
+ <p style="text-align:justify "><a href="#id8.5.5"> 8.5.5</a> <span id="id8.5.5"> 声测管埋设应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.6"> 8.5.6</a> <span id="id8.5.6"> 声测管埋设数量应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.7"> 8.5.7</a> <span id="id8.5.7"> 声测管应沿钢筋笼内侧呈对称形状布置(图8.5.7),并依次编号。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.8"> 8.5.8</a> <span id="id8.5.8"> 现场检测前的准备工作应符合下列规定：</span></p>
+ <p style="text-align:justify "><a href="#id8.5.9"> 8.5.9</a> <span id="id8.5.9"> 现场平测和斜测应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.10"> 8.5.10</a> <span id="id8.5.10"> 在桩身质量可疑的声测线周围，应采用增加声测线或采用扇形扫测(图8.5.10)、交叉斜测、CT影像技术等方式，进行复测和加密测试，确定缺陷的位置和空间分布范围，排除因声测管耦合不良等非桩身缺陷因素导致的异常声测线。采用扇形扫测时，两个换能器中点连线的水平夹角不应大于40°。</span></p>         
+ <p style="text-align:justify "><a href="#id8.5.11"> 8.5.11</a> <span id="id8.5.11"> 因声测管倾斜导致声测数据有规律地偏高或偏低变化时，应先对管距进行合理修正，然后对数据进行统计分析。实测数据明显偏离正常值而又无法进行合理修正时，检测数据不得作为评价桩身完整性的依据。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.12"> 8.5.12</a> <span id="id8.5.12"> 平测时各声测线的声时、声速、波幅和主频，应根据现场检测数据分别按式(8.5.12-1)～式(8.5.12-4)计算，并绘制声速—深度曲线和波幅—深度曲线，也可绘制辅助的主频—深度曲线和能量—深度曲线。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.13"> 8.5.13</a> <span id="id8.5.13"> 采取平测或斜测时，第j检测剖面的声速异常判定概率统计值应按照下列方法确定：</span></p>
+ <p style="text-align:justify "><a href="#id8.5.14"> 8.5.14</a> <span id="id8.5.14"> 受检桩的声速异常判断临界值，应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.15"> 8.5.15</a> <span id="id8.5.15"> 声速 <i>ν</i><sub>i</sub>,(<i>j</i>)异常应按下式判定：</span></p>
+ <p style="text-align:justify "><a href="#id8.5.16"> 8.5.16</a> <span id="id8.5.16"> 波幅异常判断的临界值，应按式(8.5.16-1)和式(8.5.16-2)计算，波幅<i>A</i><sub>pi</sub>,(<i>j</i>)满足式(8.5.16-3)时应判定为波幅异常。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.17"> 8.5.17</a> <span id="id8.5.17"> 采用信号主频值作为辅助异常声测线判据时，主频—深度曲线上主频值明显降低的声测线应判定为异常。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.18"> 8.5.18</a> <span id="id8.5.18"> 采用接收信号的能量作为辅助异常声测线判据时，能量—深度曲线上接收信号能量明显降低应判定为异常。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.19"> 8.5.19</a> <span id="id8.5.19"> 采用斜率法作为辅助异常声测线判据时，声时—深度曲线上相邻两点的斜率与声时差的乘积PSD值应按式(8.5.19)计算。PSD值在某深度处突变时，宜结合波幅变化情况进行异常声测线判定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.20"> 8.5.20</a> <span id="id8.5.20"> 桩身缺陷的空间分布范围，可根据桩身同一深度上各检测剖面桩身缺陷的分布和复测、加密测试的结果确定。</span></p>   
+ <p style="text-align:justify "><a href="#id8.5.21"> 8.5.21</a> <span id="id8.5.21"> 桩身完整性类别应结合桩身缺陷处声测线的声学特征、缺陷的空间分布范围，按表3.1.6和表8.5.21所列特征进行综合判定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.22"> 8.5.22</a> <span id="id8.5.22"> 试验检测报告除应包括第3.6节规定的内容外，尚应包括下列内容：</span></p>
