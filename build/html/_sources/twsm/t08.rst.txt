@@ -1,0 +1,156 @@
+8 桩身完整性
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">8 桩身完整性</h2>
+
+   
+8.2 高应变法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify;text-indent:2em;" > 高应变法检测桩身完整性，通常随基桩轴向承载力检测同步进行，因其能量较大，在测试深度及准确性方面均优于低应变检测，但与低应变检测相比，费用较大、时间较长，因此一般未普遍采用。</p>
+ <p style="text-align:justify;text-indent:2em;" > 与低应变法检测的快捷、廉价相比，高应变法检测桩身完整性虽然是附带性的，但由于其激励能量和检测有效深度大的优点，特别在判定桩身水平整合型缝隙、预制桩接头等缺陷时，能够在查明这些“缺陷”是否影响轴向抗压承载力的基础上，合理判定缺陷程度。</p> 
+
+
+8.3 低应变法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.3.1"> 8.3.1</a> <span id="id8.3.1"> 低应变法检测桩身完整性的方法比较多，本规范主要推荐采用反射波法。近年来，随着波动理论的深入研究和电子技术的进步，反射波法用于检测桩身完整性，已成为当前最重要、最普及的方法之一，与其他方法相比，该方法更适用于水运工程的桩基检测。但是应变法目前只能较准确地确定桩顶下第一个缺陷的位置，对多个缺陷的判断则存在困难，更不能定量地确定缺陷的大小及其危害程度。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.11"> 8.3.11</a> <span id="id8.3.11"> 最佳激振方式试验的主要目的是选择合适的激振波并确定激振点和传感器安装位置，以便减少表面波及横波的影响，从而获得正常的测试信号。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.12"> 8.3.12</a> <span id="id8.3.12"> 有承台的桩的检测是水运工程中的一个特殊课题。水运工程的高桩码头在使用或施工过程中，有时会发生海损事故，承台下的桩在事故中会遭受侧向外力撞击而导致桩身损伤，根据反射波法的原理及此前积累的测试经验，证明采用低应变反射波法检测承台下的桩是可行的，而且目前侧向安装的加速度传感器也已面世，因其安装更加方便及灵敏度提高等因素，检测的可靠性会更高。</span></p>
+ <p style="text-align:justify "><a href="#id8.3.14"> 8.3.14</a> <span id="id8.3.14"> 对实测信号值进行平均处理是提高信噪比的有效手段；选择具有良好的一致性且不含零漂及高频干扰成分的信号值进行平均，则效果更佳。</span></p>
+
+8.4 钻芯法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.4.1"> 8.4.1</a> <span id="id8.4.1"> 钻芯法是检测钻(冲)孔、人工挖孔等现浇混凝土灌注桩成桩质量的一种有效手段，不受场地条件的限制，特别适用于大直径混凝土灌注桩的成桩质量检测。</span></p>
+ <p style="text-align:justify "><a href="#id8.4.2"> 8.4.2</a> <span id="id8.4.2"> 当钻芯孔为一个时，条文规定宜在距桩中心10cm～15cm的位置开孔，一是考虑导管附近的混凝土质量相对较差、不具有代表性，二是方便验证时的钻孔位置布置。</span></p>
+
+
+
+8.5 钻芯法
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id8.5.1"> 8.5.1</a> <span id="id8.5.1"> 声波透射法可用于桩径不小于0.6 m的混凝土灌注桩的桩身完整性检测，判定桩身缺陷的位置、范围和程度。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.3"> 8.5.3</a> <span id="id8.5.3"> 声波换能器有效工作面长度指起到换能作用的部分的实际轴向尺寸，该长度过大将夸大缺陷实际尺寸并影响测试结果。</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 换能器的谐振频率越高，对缺陷的分辨率越高，但高频声波在介质中衰减快，有效测距变小。选配换能器时，在保证有一定的接收灵敏度的前提下，原则上尽可能选择较高频率的换能器。</p>
+ <p style="text-align:justify;text-indent:2em;" > 桩中的声波检测一般以水作为藕合剂，换能器在1 MPa水压下不渗水也就是在100 m水深能正常工作，这可以满足一般的工程桩检测要求。</p>
+ <p style="text-align:justify "><a href="#id8.5.5"> 8.5.5</a> <span id="id8.5.5"> 声测管内径与换能器外径相差过大时，声耦合误差明显增加；相差过小时，影响换能器在管中的移动，因此两者差值取10 mm为宜。声测管管壁太薄或材质较软时，混凝土灌注后的径向压力可能会使声测管产生过大的径向变形，影响换能器正常升降，甚至导致试验无法进行，因此要求声测管有一定的径向刚度，如采用钢管、镀锌管等管材，不宜采用PVC管。由于钢材的温度系数与混凝土相近，可以避免混凝土凝固后与声测管脱开产生空隙。声测管的平行度是影响测试数据可靠性的关键，因此，要保证成桩后各声测管之间基本平行。</span></p>
+
+ <p style="text-align:justify "><a href="#id8.5.8"> 8.5.8</a> <span id="id8.5.8"> 率定法测定仪器系统延迟时间的方法是将发射、接收换能器平行悬于清水中，逐次改变点源距离并测量相应声时，记录不少于4 个点的声时数据并作线性回归的时距曲线：</span></p>
+ 
+$$t=t_{0}+b\\times l\\tag{8.1}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='right' id="eqzs"><i>t</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时(μs)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>t</i><sub>0</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">仪器系统延迟时间(μs)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>b</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 直线斜率(μs/mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>l</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">换能器表面净距离(mm)。</td>
+ </tr>
+  </table>
+ <p></p>   
+
+ <p style="text-align:justify;text-indent:2em;" > 声测管及耦合水层声时修正值按下式计算：</p>
+
+$$t^{'}=\\dfrac{d_{1}-d_{2}}{\\upsilon_{\\mathrm{t}}}+\\dfrac{d_{2}-d^{'}}{\\upsilon_{\\mathrm{\\omega }}}\\tag{8.2}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='right' id="eqzs"><i>t</i><sup>'</sup></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声测管及耦合水层声时修正值(μs)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>d</i><sub>1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">声测管外径(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>d</i><sub>2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 声测管内径(mm)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>d</i><sup>'</sup></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">换能器外径(mm)；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>ν</i><sub>t</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 声测管材料声速(km/s)；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td align='right' id="eqzs"><i>ν</i><sub>ω</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 水的声速(km/s)。</td>
+ </tr> 
+  </table>
+ <p></p>   
+ <p style="text-align:justify "><a href="#id8.5.9"> 8.5.9</a> <span id="id8.5.9"> 径向换能器在径向无指向性，但在垂直面上有指向性，且换能器的接收响应随着发、收换能器中心连线与水平面夹角<i>θ</i>的增大而非线性递减。为达到斜测目的，测试系统应有足够的灵敏度，且夹角<i>θ</i>不应大于30°</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 声测线间距将影响桩身缺陷纵向尺寸的检测精度，间距越小，检测精度越高，但需花费更多的时间。一般混凝土灌注桩的缺陷在空间有一定的分布范围，规定声测线间距不大于100 mm,可以满足工程检测精度的要求。当采用自动提升装置时，声测线间距还能够进一步减小。</p>
+ <p style="text-align:justify;text-indent:2em;" > 非匀速下降的换能器在由静止(或缓降)变为向下运动(或快降)时，由于存在不同程度的失重现象，使电缆线出现不同程度松弛，导致换能器位置不准确。因此从桩底开始同步提升换能器进行检测才能保证记录的换能器位置的准确性。</p>
+ <p style="text-align:justify;text-indent:2em;" > 自动记录声波发射与接收换能器位置时，提升过程中电缆线带动编码器卡线轮转动，编码器计数卡线轮转动值换算得到换能器位置。电缆线与编码器卡线轮之间滑动、卡线轮直径误差等因素均会导致编码器位置计数与实际传感器位置有一定误差，因此每隔一定间距进行一次高差校核。此外，自动记录声波发射与接收换能器位置时，如果同步提升声波发射与接收换能器的提升速度过快，会导致换能器在声测管中剧烈摆动，甚至与声测管管壁发生碰撞，对接受的声波波形产生不可预测的影响。因此换能器的同步提升速度不能过快，需要保证测试波形的稳定性。</p>
+ <p style="text-align:justify;text-indent:2em;" > 在现场对可疑声测线应结合声时(声速)、波幅、主频、实测波形等指标进行综合判定。</p>
+ <p style="text-align:justify;text-indent:2em;" > 不仅要求同一检测剖面，最好是一根桩各检测剖面，在检测时都能满足各检测剖面声波发射电压和仪器设置参数不变的条件，使各检测剖面的声学参数具有可比性，利于综合判定。但应注意：4管6剖面时，若采用四个换能器同步提升并自动记录则属例外，此时对角线剖面的测距比边线剖面的测距大1.41倍，而长测距会增大声波衰减。</p>    
+ <p style="text-align:justify "><a href="#id8.5.10"> 8.5.10</a> <span id="id8.5.10"> 经平测或斜测普查后，找出各检测剖面的可疑声测线，再经加密平测(减小测线间距)、交叉斜测等方式，既可以检验平测普查的结论是否正确，又可以依据加密测试结果判定桩身缺陷的边界，进而推断桩身缺陷的范围和空间分布特征。</span></p>         
+ <p style="text-align:justify "><a href="#id8.5.11"> 8.5.11</a> <span id="id8.5.11"> 当声测管平行时，构成某一检测剖面的两声测管外壁在桩顶面的净距离1等于该检测剖面所有声测线测距，当声测管弯曲时，各声测线测距将偏离1值，导致声速值偏离混凝土声速正常取值。一般情况下声测管倾斜造成的各测线测距变化沿深度方向有一定规律，表现为各条声测线的声速值有规律地偏离混凝土正常取值，此时采用高阶曲线拟合等方法对各条测线测距做合理修正，然后重新计算各测线的声速。</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 如果不对斜管进行合理的修正，将严重影响声速的临界值合理取值，因此本条规定声测管倾斜时进行测距修正</p>
+ <p style="text-align:justify "><a href="#id8.5.14"> 8.5.14</a> <span id="id8.5.14"> <math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mi>t</mi></mrow></msub></math>和<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mi>p</mi></mrow></msub></math>的合理确定是大量以往检测经验的体现。当桩身混凝土未达到龄期而提前检测时，需要对<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mi>t</mi></mrow></msub></math>和<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mi>p</mi></mrow></msub></math>的取值做适当调整。</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 概率法从本质上说是一种相对比较法，它考察的只是各条声测线声速与相应检测剖面内所有声测线声速平均值的偏离程度。当声测管倾斜或桩身存在多个缺陷时，同一检测剖面内各条声测线声速值离散很大，这些声速值实际上已严重偏离了正态分布规律，基于正态分布规律的概率法判据已失效，此时，不能将概率法临界值<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mn>0</mn></mrow></msub><mo stretchy="false">(</mo><mi>j</mi><mo stretchy="false">)</mo></math>作为该检测剖面各声测线声速异常判断临界值<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mi>0</mi></mrow></msub></math>,式(8.5.14)就是对概率法判据值做合理的限定。</p>
+ <p style="text-align:justify;text-indent:2em;" > 声速的测试值受非缺陷因素影响小，测试值较稳定，不同剖面间的声速测试值具有可比性，取各检测剖面声速异常判断临界值的平均值作为该桩各剖面内所有声测线声速异常判断临界值，可以减小各剖面间因为用概率法计算的临界值差别过大造成的桩身完整性判别上的不合理性。另外，对同一根桩，桩身、混凝土设计强度和配合比以及施工工艺都是一样的，应该采用一个临界值标准来判定各剖面所有声测线对应的混凝土质量。当某一剖面声速临界值明显偏离合理取值范围时，应分析原因，计算时应剔除。</p>
+ <p style="text-align:justify "><a href="#id8.5.16"> 8.5.16</a> <span id="id8.5.16"> 波幅临界值判据为<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>A</mi><mrow><mi>p</mi><mi>i</mi></mrow></msub><mo stretchy="false">(</mo><mi>j</mi><mo stretchy="false">)</mo><mo>&lt;</mo><msub><mi>A</mi><mrow><mi>m</mi></mrow></msub><mo stretchy="false">(</mo><mi>j</mi><mo stretchy="false">)</mo><mo>−</mo><mn>6</mn></math>,即选择当信号首波幅值衰减量为对应检测剖面所有信号首波幅值衰减量平均值的一半时的波幅分贝数为临界值，在具体应用中应注意下面几点：</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 波幅判据没有采用如声速判据那样的各检测剖面取平均值的办法，而是采用单剖面判据，这是因为不同剖面间测距及声耦合状况差别较大，使波幅不具有可比性。此外，波幅的衰减受桩身混凝土不均匀性、声波传播路径和点源距离的影响，故考虑声测管间距较大时波幅分散性而采取适当的调整。</p>
+ <p style="text-align:justify;text-indent:2em;" > 因波幅的分贝数受仪器、传感器灵敏度及发射能量的影响，故在考虑这些影响的基础上再采用波幅临界值判据。当波幅差异性较大时，需要与声速变化及主频变化情况相结合进行综合分析。</p>
+ <p style="text-align:justify "><a href="#id8.5.17"> 8.5.17</a> <span id="id8.5.17"> 声波接收信号的主频漂移程度反映了声波在桩身混凝土中传播时的衰减程度，而这种衰减程度又能体现混凝土质量的优劣。接收信号的主频受诸如测试系统的状态、声耦合状况、测距等许多非缺陷因素的影响，测试值没有声速稳定，对缺陷的敏感性不及波幅。在实用时，作为声速、波幅等主要声参数判据之外的一个辅助判据。</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 在使用主频判据时，需要保持声波换能器具有单峰的幅频特性和良好的耦合一致性，接收信号不应超量程，否则削波带来的高频谐波会影响分析结果。若采用FFT方法计算主频值，还需要保证足够的频域分辨率。</p>
+ <p style="text-align:justify "><a href="#id8.5.18"> 8.5.18</a> <span id="id8.5.18"> 接收信号的能量与接收信号的幅值存在正相关性，可以将约定的某一足够长时间段内的声波时域曲线的绝对值对时间积分后得到的结果(或约定的某一足够长时段内的声波时域曲线的平均幅值)作为能量指标。接收信号的能量反映了声波在混凝土介质中各个声传播路径上能量总体衰减情况，是测区、混凝土质量的综合反映，也是波形畸变程度的量化指标。使用能量判据时，接收信号通常不超量程(削波)。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.19"> 8.5.19</a> <span id="id8.5.19"> 在桩身缺陷的边缘，声时将发生突变，桩身存在缺陷的声测线对应声时深度曲线上的突变点。经声时差加权后的PSD判据图更能突出桩身存在缺陷的声测线，并在一定程度上减小了声测管的平行度差或混凝土不均匀等非缺陷因素对数据分析判断的影响。实际应用时可以先假定缺陷的性质(如夹层、空洞、蜂窝等)和尺寸，计算临界状态的PSD值，作为PSD临界值判据，但需对缺陷区的声速做假定。</span></p>
+ <p style="text-align:justify "><a href="#id8.5.20"> 8.5.20</a> <span id="id8.5.20"> 声波透射法与其他的桩身完整性检测方法相比，具有信息量更丰富、全面、细致的特点：可以依据对桩身缺陷处加密测试(斜测、交叉斜测、扇形扫测以及CT影像技术)来确定缺陷几何尺寸；可以将不同检测剖面在同一深度的桩身缺陷状况进行横向关联，来判定桩身缺陷的横向分布。</span></p>   
+ <p style="text-align:justify "><a href="#id8.5.21"> 8.5.21</a> <span id="id8.5.21"> 对于只预埋2根声测管的基桩，仅有一个检测剖面，只能认定该检测剖面代表基桩全部横截面，无论是连续多根声测线，还是个别声测线声学参数异常均表示为全断面的异常，相当于表中的“大于或等于检测剖面数量的50%。</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 根据规范规定采用的换能器频率对应的波长以及100 mm最大声测线间距，使异常声测线至少连续出现2次所对应的缺陷尺度一般不会低于10 cm量级。</p>
+ <p style="text-align:justify "><a href="#id8.5.22"> 8.5.22</a> <span id="id8.5.22"> 实测波形的后续部分反映声波在接、收换能器之间的混凝土介质中各种声传播路径上总能量衰减状况，其影响区域大于首波，因此检测剖面的实测波形波列图有助于测试人员对桩身缺陷程度及位置直观地判定。</span></p>
+
+
+
+:math:`\ ` 

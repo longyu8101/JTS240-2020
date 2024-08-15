@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>附录E 静载荷试验记录表 &mdash; 水运工程基桩试验检测技术规范  JTS 240 — 2020</title>
+  <title>附录E 水平承载力系数m值的计算方法 &mdash; 水运工程基桩试验检测技术规范  JTS 240 — 2020</title>
       <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="_static/css/custom.css" type="text/css" />
       <link rel="stylesheet" href="_static/css/custom.css" type="text/css" />
@@ -19,6 +19,7 @@
         <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="_static/doctools.js"></script>
         <script src="_static/sphinx_highlight.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="索引" href="genindex.html" />
     <link rel="search" title="搜索" href="search.html" />
@@ -57,9 +58,22 @@
 <li class="toctree-l1"><a class="reference internal" href="FLB.html">附录B  桩的试打测试与打桩过程监测</a></li>
 <li class="toctree-l1"><a class="reference internal" href="FLC.html">附录C  混凝土桩桩头处理</a></li>
 <li class="toctree-l1"><a class="reference internal" href="FLD.html">附录D  静载荷试验记录表</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">附录E  静载荷试验记录表</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">附录E  水平承载力系数m值的计算方法</a></li>
 <li class="toctree-l1"><a class="reference internal" href="FLF.html">附录F  芯样试件加工和测量</a></li>
 <li class="toctree-l1"><a class="reference internal" href="FLG.html">附录G  本规范用词说明</a></li>
+<li class="toctree-l1"><a class="reference internal" href="yyml.html">引用标准名录</a></li>
+<li class="toctree-l1"><a class="reference internal" href="fjsm.html">附加说明</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">条文说明</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t01.html">1 总则</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t03.html">3 基本规定</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t04.html">4 轴向抗压承载力</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t05.html">5 轴向抗拔承载力</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t06.html">6 水平承载力</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t07.html">7 分层侧摩阻力试验</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/t08.html">8 桩身完整性</a></li>
+<li class="toctree-l1"><a class="reference internal" href="twsm/TFLB.html">附录B  桩的试打测试与打桩过程监测</a></li>
 </ul>
 
         </div>
@@ -76,7 +90,7 @@
           <div role="navigation" aria-label="页面导航">
   <ul class="wy-breadcrumbs">
       <li><a href="index.html" class="icon icon-home"></a></li>
-      <li class="breadcrumb-item active">附录E  静载荷试验记录表</li>
+      <li class="breadcrumb-item active">附录E  水平承载力系数m值的计算方法</li>
       <li class="wy-breadcrumbs-aside">
             <a href="_sources/FLE.rst.txt" rel="nofollow"> 查看页面源码</a>
       </li>
@@ -86,13 +100,127 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="e">
-<h1>附录E  静载荷试验记录表<a class="headerlink" href="#e" title="此标题的永久链接"></a></h1>
-<h2 id="test111">附录E  静载荷试验记录表</h2><p style="text-align:justify"><a href="#idE.0.1"> E.0.1</a> <span id="idE.0.1"> 弹性长桩水平地基反力系数随深度增长的比例系数<i>m</i>值的计算，应对弹性长桩在水平荷载下的位移进行分析，位移分析示意图见图E.0.1。</span></p>
+  <section id="e-m">
+<h1>附录E  水平承载力系数m值的计算方法<a class="headerlink" href="#e-m" title="此标题的永久链接"></a></h1>
+<h2 id="test111">附录E  水平承载力系数m值的计算方法</h2><p style="text-align:justify"><a href="#idE.0.1"> E.0.1</a> <span id="idE.0.1"> 弹性长桩水平地基反力系数随深度增长的比例系数<i>m</i>值的计算，应对弹性长桩在水平荷载下的位移进行分析，位移分析示意图见<a href="#figE.0.1">图E.0.1</a>。</span></p>
 
-<p style="text-align:justify"><a href="#idE.0.2"> E.0.2</a> <span id="idE.0.2"> <i>θ</i><sub>0</sub>和<i>Y</i><sub>0</sub>的取值宜采用实测数据，无实测数据时，可按下列公式计算：</span></p>
+  <div align="center"><img id="figE.0.1" src="./_static/fig/E.0.1.png" alt="Picture" width="400px"></div>
+ <p style="color: dimgray;text-align: center;">图 E.0.1 弹性长桩在水平荷载作用下的位移分析示意图<br/>(a)位移分析示意图；(b)泥面处水平荷载作用简化示意图</p>
+ <script type="text/javascript">var viewer = new Viewer(document.getElementById('figE.0.1'));</script>
+<p ><font size="2"><i>H</i>-水平荷载(kN);<i>H</i><sub>0</sub>-作用在泥面处的水平荷载(kN);<i>M</i><sub>0</sub>-作用在泥面处的弯矩(kN·m);<i>Y</i>-水平荷载作用下桩在作用点处的水平位移(m);<i>Y</i><sub>0</sub>-水平荷载作用下泥面变形引起桩在泥面高程处的水平位移(m);<i>Y</i><sub>1</sub>-水平荷载作用下桩身泥面处截面转角引起水平荷载作用点处的水平位移(m);<i>Y</i><sub>2</sub>-假定泥面高程处桩身为固端，水平荷载作用下引起桩身水平荷载作用点处的水平位移(m);<i>θ</i><sub>0</sub>-水平荷载作用下桩在泥面高程处截面转角(rad);<i>θ</i>-水平荷载作用下桩顶截面转角(rad)</font></p>
 
-<p style="text-align:justify"><a href="#idE.0.3"> E.0.3</a> <span id="idE.0.3"> <i>m</i>值应按下列方法进行计算。</span></p></section>
+<p style="text-align:justify"><a href="#idE.0.2"> E.0.2</a> <span id="idE.0.2"> <i>θ</i><sub>0</sub>和<i>Y</i><sub>0</sub>的取值宜采用实测数据，无实测数据时，可按下列公式计算：</span></p><p>$$\theta _0=\theta-\dfrac{Hh_{0}^{2}}{2E_{\mathrm{p} }I}\tag{E.0.2-1}$$</p>
+<p>$$Y_0=Y-\theta h_{0}+\dfrac{Hh_{0}^{3}}{6E_{\mathrm{p} }I}\tag{E.0.2-2}$$</p>
+<table border="0" style="font-family:times new roman" id="gongshi">
+<tr>
+<td width="50px" align='center' id="eqzs">式中</td>
+<td width="30px" align='right' id="eqzs"><i>θ</i><sub>0</sub></td>
+<td width="40px" align='left' id="eqzs">——</td>
+<td id="eqzs">水平荷载作用下桩在泥面高程处截面转角(rad)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>θ</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">水平荷载作用下桩顶截面转角(rad)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>H</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs"> 水平荷载(kN)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>h</i><sub>0</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">水平荷载作用点至泥面的距离(m)；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>E</i><sub>p</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桩身材料的弹性模量(kN/m<sup>2</sup>)；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>I</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桩截面的惯性矩(m<sup>4</sup>)；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>Y</i><sub>0</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">水平荷载作用下泥面变形引起桩在泥面高程处的水平位移(m)；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>Y</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">水平荷载作用下泥面变形引起桩在泥面高程处的水平位移(m)。</td>
+</tr>
+ </table>
+<p></p>
+
+
+<p style="text-align:justify"><a href="#idE.0.3"> E.0.3</a> <span id="idE.0.3"> <i>m</i>值应按下列方法进行计算。</span></p>
+<p style="text-align:justify"><a href="#idE.0.3.1"> E.0.3.1</a> <span id="idE.0.3.1"> 同级水平荷载作用下，桩的相对刚度系数T值应由式<a href="#ideqE.0.3-1">(E.0.3-1)</a><span id="ideqE.0.3-1">计算，m值应由式<a href="#ideqE.0.3-2">(E.0.3-2)</a><span id="ideqE.0.3-2">计算。</span></p><p>$$Y_0=2.441\dfrac{H_{0}T^3}{E_{\mathrm{p}}I}+1.621\dfrac{M_{0}T^2}{E_{\mathrm{p}}I}\tag{E.0.3-1}$$</p>
+<p>$$T=\sqrt[5]{\dfrac{E_{\mathrm{p} }I}{mb_0}} \tag{E.0.3-2}$$</p>
+<table border="0" style="font-family:times new roman" id="gongshi">
+<tr>
+<td width="50px" align='center' id="eqzs">式中</td>
+<td width="30px" align='right' id="eqzs"><i>Y</i><sub>0</sub></td>
+<td width="40px" align='left' id="eqzs">——</td>
+<td id="eqzs">平荷载作用下泥面变形引起桩在泥面高程处的水平位移(m)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>H</i><sub>0</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">作用在泥面处的水平荷载(kN)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>T</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs"> 桩的相对刚度系数(m)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>E</i><sub>p</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桩身材料的弹性模量(kN/m<sup>2</sup>);</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>I</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs"> 桩截面的惯性矩(m<sup>4</sup>)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>M</i><sub>0</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">作用在泥面处的弯矩(kN·m)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>m</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs"> 桩侧地基土的水平抗力系数随深度增长的比例系数(kN/m<sup>4</sup>)；</td>
+</tr>
+<tr>
+<td id="eqzs"> </td>
+<td align='right' id="eqzs"><i>b</i><sub>0</sub></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桩的换算宽度(m),等于2倍桩径或桩宽。</td>
+</tr>
+ </table>
+<p></p>
+
+<p style="text-align:justify"><a href="#idE.0.3.2"> E.0.3.2</a> <span id="idE.0.3.2"> 直接计算m值有困难时，可采用试算法进行计算。先假设一个m值，由<a href="#ideqE.0.3-2">式(E.0.3-2)</a><span id="ideqE.0.3-2">求得T值，由<a href="#ideqE.0.3-1">式(E.0.3-1)</a><span id="ideqE.0.3-1">求得<i>Y</i><sub>0</sub>,值，与<a href="#ideqE.0.2-2">式(E.0.2-2)</a><span id="ideqE.0.2-2">计算的Y,值比较，反复试算，当两个<i>Y</i><sub>0</sub>值相符时，假设的m值即为所求值。</span></p><p><span class="math notranslate nohighlight">\(\ \)</span></p>
+</section>
 
 
            </div>
