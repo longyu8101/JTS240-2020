@@ -731,13 +731,13 @@ $$v_{i}(j)\\geqslant v_{2}(j)\\geqslant \\cdots v_{k^{'}}(j)\\geqslant v_{i-1}(j
 
 $$ v_{01}(j)=v_{\\mathrm{m} }(j)-\\lambda \\cdot s_{\\mathrm{x} }(j)\\tag{8.5.13-2}$$
 
-$$ v_{02}(j)=v_{\\mathrm{m} }(j)+\\lambda \\cdot s_{\\mathrm{x} }(j)\\tag{8.5.13-2}$$
+$$ v_{02}(j)=v_{\\mathrm{m} }(j)+\\lambda \\cdot s_{\\mathrm{x} }(j)\\tag{8.5.13-3}$$
 
-$$ v_{\\mathrm{m} }(j)=\\dfrac{1}{n-k-k^{'}} \\sum_{i-k^{'}+1}^{n-k} v_{\\mathrm{i} }(j)\\tag{8.5.13-3}$$
+$$ v_{\\mathrm{m} }(j)=\\dfrac{1}{n-k-k^{'}} \\sum_{i-k^{'}+1}^{n-k} v_{\\mathrm{i} }(j)\\tag{8.5.13-4}$$
 
-$$ S_{\\mathrm{x} }(j)=\\sqrt{\\dfrac{1}{n-k-k^{'}} \\sum_{i-k^{'}+1}^{n-k}[v_{\\mathrm{i} }(j)-v_{\\mathrm{m} }(j)]^2} \\tag{8.5.13-4}$$
+$$ S_{\\mathrm{x} }(j)=\\sqrt{\\dfrac{1}{n-k-k^{'}} \\sum_{i-k^{'}+1}^{n-k}[v_{\\mathrm{i} }(j)-v_{\\mathrm{m} }(j)]^2} \\tag{8.5.13-5}$$
 
-$$ C_{v}(j)=\\dfrac{S_{\\mathrm{x} }(j)}{v_{\\mathrm{m} }(j)}\\tag{8.5.13-5}$$
+$$ C_{v}(j)=\\dfrac{S_{\\mathrm{x} }(j)}{v_{\\mathrm{m} }(j)}\\tag{8.5.13-6}$$
 
 .. raw:: html
 
